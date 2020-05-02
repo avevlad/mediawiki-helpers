@@ -18,9 +18,14 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   // const list = await fsPromises.lstat(doi_assets_folder);
   // const dir = await fsPromises.readdir(doi_assets_folder);
   const l1 = await fsPromises.readdir(path.resolve(process.cwd()));
+  const PROJECT_ROOT_l = await fsPromises.readdir(
+    path.resolve(serverRuntimeConfig.PROJECT_ROOT)
+  );
   // const l2 = await fsPromises.lstat(doi_assets_folder);
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
-  res.end(JSON.stringify({ pagesDirectory, doi_assets_folder, l1 }));
+  res.end(
+    JSON.stringify({ pagesDirectory, doi_assets_folder, l1, PROJECT_ROOT_l })
+  );
   // res.end(JSON.stringify({ list, dir }));
 };
