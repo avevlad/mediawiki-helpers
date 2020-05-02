@@ -10,7 +10,7 @@ const isProd = process.env.NODE_ENV === "production";
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const doi_assets_folder = path.join(
-    serverRuntimeConfig.PROJECT_ROOT,
+    process.cwd(),
     !isProd ? "./public/doi_assets/" : ""
   );
   console.log("doi_assets_folder = ", doi_assets_folder);

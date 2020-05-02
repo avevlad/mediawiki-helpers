@@ -54,7 +54,7 @@ const Page: NextPage<Props> = (props) => {
       });
 
       finalArr.push({
-        search_id: value,
+        search_id: listElement,
         result: srr.data,
       });
     }
@@ -77,15 +77,16 @@ const Page: NextPage<Props> = (props) => {
         <div key={key}>
           <div>{item.search_id}</div>
           <div>{JSON.stringify(item.result)}</div>
+          <hr />
         </div>
       );
     }
 
     return (
       <div key={key}>
+        <div>{item.search_id}</div>
+        <div>{JSON.stringify(item.result.message.title)}</div>
         <hr />
-        123
-        <h2>{item.dsad}</h2>
       </div>
     );
   });
