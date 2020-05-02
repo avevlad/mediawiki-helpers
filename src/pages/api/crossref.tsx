@@ -6,12 +6,14 @@ import axios from "axios";
 import get from "lodash/get";
 import getConfig from "next/config";
 const { serverRuntimeConfig } = getConfig();
+const isProd = process.env.NODE_ENV === "production";
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const doi_assets_folder = path.join(
     serverRuntimeConfig.PROJECT_ROOT,
-    "./public/doi_assets/"
+    !isProd ? "./public/doi_assets/" : ""
   );
+  console.log("doi_assets_folder = ", doi_assets_folder);
 
   const doi = get(req.query, "doi") as string;
 
