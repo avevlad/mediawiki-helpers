@@ -1,0 +1,1234 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2020-04-12T17:03:41Z",
+      "timestamp": 1586711021537
+    },
+    "reference-count": 101,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "funder": [
+      {
+        "DOI": "10.13039/501100000781",
+        "name": "European Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "260507"
+        ]
+      },
+      {
+        "name": "Australian National Health and Medical Research Council",
+        "award": [
+          "1028641",
+          "1028643"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Genome Med"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1186/s13073-017-0467-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2017-08-18T09:57:34Z",
+      "timestamp": 1503050254000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 134,
+    "title": [
+      "A practical guide to single-cell RNA-sequencing for biomedical research and clinical applications"
+    ],
+    "prefix": "10.1186",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Ashraful",
+        "family": "Haque",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jessica",
+        "family": "Engel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sarah A.",
+        "family": "Teichmann",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-4484-5657",
+        "authenticated-orcid": false,
+        "given": "Tapio",
+        "family": "Lönnberg",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "467_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "DOI": "10.1016/j.immuni.2012.01.002",
+        "volume": "36",
+        "author": "EW Newell",
+        "year": "2012",
+        "unstructured": "Newell EW, Sigal N, Bendall SC, Nolan GP, Davis MM. Cytometry by time-of-flight shows combinatorial cytokine expression and virus-specific cell niches within a continuum of CD8+ T cell phenotypes. Immunity. 2012;36:142–52.",
+        "journal-title": "Immunity"
+      },
+      {
+        "key": "467_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "417",
+        "DOI": "10.1038/nmeth.2869",
+        "volume": "11",
+        "author": "C Giesen",
+        "year": "2014",
+        "unstructured": "Giesen C, Wang HA, Schapiro D, Zivanovic N, Jacobs A, Hattendorf B, et al. Highly multiplexed imaging of tumor tissues with subcellular resolution by mass cytometry. Nat Methods. 2014;11:417–22.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaag3009",
+        "DOI": "10.1126/science.aag3009",
+        "volume": "356",
+        "author": "P See",
+        "year": "2017",
+        "unstructured": "See P, Dutertre CA, Chen J, Günther P, McGovern N, Irac SE, et al. Mapping the human DC lineage through the integration of high-dimensional techniques. Science. 2017;356:eaag3009.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1038/nature20598",
+        "volume": "540",
+        "author": "SW Ng",
+        "year": "2016",
+        "unstructured": "Ng SW, Mitchell A, Kennedy JA, Chen WC, McLeod J, Ibrahimova N, et al. A 17-gene stemness score for rapid determination of risk in acute leukaemia. Nature. 2016;540:433–7.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "467_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1038/nmeth.1315",
+        "volume": "6",
+        "author": "F Tang",
+        "year": "2009",
+        "unstructured": "Tang F, Barbacioru C, Wang Y, Nordman E, Lee C, Xu N, et al. mRNA-seq whole-transcriptome analysis of a single cell. Nat Methods. 2009;6:377–82.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "R31",
+        "DOI": "10.1186/gb-2013-14-4-r31",
+        "volume": "14",
+        "author": "Y Sasagawa",
+        "year": "2013",
+        "unstructured": "Sasagawa Y, Nikaido I, Hayashi T, Danno H, Uno KD, Imai T, et al. Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity. Genome Biol. 2013;14:R31.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1093",
+        "DOI": "10.1038/nmeth.2645",
+        "volume": "10",
+        "author": "P Brennecke",
+        "year": "2013",
+        "unstructured": "Brennecke P, Anders S, Kim JK, Kołodziejczyk AA, Zhang X, Proserpio V, et al. Accounting for technical noise in single-cell RNA-seq experiments. Nat Methods. 2013;10:1093–5.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1130",
+        "DOI": "10.1016/j.celrep.2014.04.011",
+        "volume": "7",
+        "author": "B Mahata",
+        "year": "2014",
+        "unstructured": "Mahata B, Zhang X, Kolodziejczyk AA, Proserpio V, Haim-Vilmovsky L, Taylor AE, et al. Single-cell RNA sequencing reveals T helper cells synthesizing steroids de novo to contribute to immune homeostasis. Cell Rep. 2014;7:1130–42.",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "467_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1126/science.1245316",
+        "volume": "343",
+        "author": "Q Deng",
+        "year": "2014",
+        "unstructured": "Deng Q, Ramsköld D, Reinius B, Sandberg R. Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells. Science. 2014;343:193–6.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "776",
+        "DOI": "10.1126/science.1247651",
+        "volume": "343",
+        "author": "DA Jaitin",
+        "year": "2014",
+        "unstructured": "Jaitin DA, Kenigsberg E, Keren-Shaul H, Elefant N, Paul F, Zaretsky I, et al. Massively parallel single-cell RNA-seq for marker-free decomposition of tissues into cell types. Science. 2014;343:776–9.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1038/nature13173",
+        "volume": "509",
+        "author": "B Treutlein",
+        "year": "2014",
+        "unstructured": "Treutlein B, Brownfield DG, Wu AR, Neff NF, Mantalas GL, Espinoza FH, et al. Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq. Nature. 2014;509:371–5.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "467_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1038/nature12172",
+        "volume": "498",
+        "author": "AK Shalek",
+        "year": "2013",
+        "unstructured": "Shalek AK, Satija R, Adiconis X, Gertner RS, Gaublomme JT, Raychowdhury R, et al. Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells. Nature. 2013;498:236–40.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "467_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1038/nature13437",
+        "volume": "510",
+        "author": "AK Shalek",
+        "year": "2014",
+        "unstructured": "Shalek AK, Satija R, Shuga J, Trombetta JJ, Gennert D, Lu D, et al. Single-cell RNA-seq reveals dynamic paracrine control of cellular variation. Nature. 2014;510:363–9.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "467_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1396",
+        "DOI": "10.1126/science.1254257",
+        "volume": "344",
+        "author": "AP Patel",
+        "year": "2014",
+        "unstructured": "Patel AP, Tirosh I, Trombetta JJ, Shalek AK, Gillespie SM, Wakimoto H, et al. Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma. Science. 2014;344:1396–401.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1126/science.aaa1934",
+        "volume": "347",
+        "author": "A Zeisel",
+        "year": "2015",
+        "unstructured": "Zeisel A, Muñoz-Manchado AB, Codeluppi S, Lönnerberg P, La Manno G, Juréus A, et al. Brain structure. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq. Science. 2015;347:1138–42.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1016/j.stem.2015.09.011",
+        "volume": "17",
+        "author": "AA Kolodziejczyk",
+        "year": "2015",
+        "unstructured": "Kolodziejczyk AA, Kim JK, Tsang JC, Ilicic T, Henriksson J, Natarajan KN, et al. Single cell RNA-sequencing of pluripotent states unlocks modular transcriptional variation. Cell Stem Cell. 2015;17:471–85.",
+        "journal-title": "Cell Stem Cell"
+      },
+      {
+        "key": "467_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1131",
+        "DOI": "10.1038/nsmb.2660",
+        "volume": "20",
+        "author": "L Yan",
+        "year": "2013",
+        "unstructured": "Yan L, Yang M, Guo H, Yang L, Wu J, Li R, et al. Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells. Nat Struct Mol Biol. 2013;20:1131–9.",
+        "journal-title": "Nat Struct Mol Biol"
+      },
+      {
+        "key": "467_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1126/science.aab0917",
+        "volume": "349",
+        "author": "DT Miyamoto",
+        "year": "2015",
+        "unstructured": "Miyamoto DT, Zheng Y, Wittner BS, Lee RJ, Zhu H, Broderick KT, et al. RNA-Seq of single prostate CTCs implicates noncanonical Wnt signaling in antiandrogen resistance. Science. 2015;349:1351–6.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1126/science.aad0501",
+        "volume": "352",
+        "author": "I Tirosh",
+        "year": "2016",
+        "unstructured": "Tirosh I, Izar B, Prakadan SM, Wadsworth MH, Treacy D, Trombetta JJ, et al. Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq. Science. 2016;352:189–96.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "329",
+        "DOI": "10.1038/nmeth.3800",
+        "volume": "13",
+        "author": "MJ Stubbington",
+        "year": "2016",
+        "unstructured": "Stubbington MJ, Lönnberg T, Proserpio V, Clare S, Speak AO, Dougan G, et al. T cell fate and clonality inference from single-cell transcriptomes. Nat Methods. 2016;13:329–32.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "3613",
+        "DOI": "10.1242/dev.131235",
+        "volume": "142",
+        "author": "P Blakeley",
+        "year": "2015",
+        "unstructured": "Blakeley P, Fogarty NM, Del Valle I, Wamaitha SE, Hu TX, Elder K, et al. Defining the three cell lineages of the human blastocyst by single-cell RNA-seq. Development. 2015;142:3613.",
+        "journal-title": "Development"
+      },
+      {
+        "key": "467_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1038/nbt.2859",
+        "volume": "32",
+        "author": "C Trapnell",
+        "year": "2014",
+        "unstructured": "Trapnell C, Cacchiarelli D, Grimsby J, Pokharel P, Li S, Morse M, et al. The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells. Nat Biotechnol. 2014;32:381–6.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1016/j.cell.2016.08.009",
+        "volume": "167",
+        "author": "S Petropoulos",
+        "year": "2016",
+        "unstructured": "Petropoulos S, Edsgärd D, Reinius B, Deng Q, Panula SP, Codeluppi S, et al. Single-cell RNA-seq reveals lineage and X chromosome dynamics in human preimplantation embryos. Cell. 2016;167:285.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaal2192",
+        "DOI": "10.1126/sciimmunol.aal2192",
+        "volume": "2",
+        "author": "T Lonnberg",
+        "year": "2017",
+        "unstructured": "Lonnberg T, Svensson V, James KR, Fernandez-Ruiz D, Sebina I, Montandon R, et al. Single-cell RNA-seq and computational analysis using temporal mixture modelling resolves Th1/Tfh fate bifurcation in malaria. Sci Immunol. 2017;2:eaal2192.",
+        "journal-title": "Sci Immunol"
+      },
+      {
+        "key": "467_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "eaai8478",
+        "DOI": "10.1126/science.aai8478",
+        "volume": "355",
+        "author": "AS Venteicher",
+        "year": "2017",
+        "unstructured": "Venteicher AS, Tirosh I, Hebert C, Yizhak K, Neftel C, Filbin MG, et al. Decoupling genetics, lineages, and microenvironment in IDH-mutant gliomas by single-cell RNA-seq. Science. 2017;355:eaai8478.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "e21208",
+        "DOI": "10.1371/journal.pone.0021208",
+        "volume": "6",
+        "author": "F Tang",
+        "year": "2011",
+        "unstructured": "Tang F, Barbacioru C, Nordman E, Bao S, Lee C, Wang X, et al. Deterministic and stochastic allele specific gene expression in single mouse blastomeres. PLoS One. 2011;6:e21208.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "467_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1430",
+        "DOI": "10.1038/ng.3678",
+        "volume": "48",
+        "author": "B Reinius",
+        "year": "2016",
+        "unstructured": "Reinius B, Mold JE, Ramsköld D, Deng Q, Johnsson P, Michaëlsson J, et al. Analysis of allelic expression patterns in clonal somatic cells by single-cell RNA-seq. Nat Genet. 2016;48:1430–5.",
+        "journal-title": "Nat Genet"
+      },
+      {
+        "key": "467_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "8687",
+        "DOI": "10.1038/ncomms9687",
+        "volume": "6",
+        "author": "JK Kim",
+        "year": "2015",
+        "unstructured": "Kim JK, Kolodziejczyk AA, Ilicic T, Illicic T, Teichmann SA, Marioni JC. Characterizing noise structure in single-cell RNA-seq distinguishes genuine from technical stochastic allelic expression. Nat Commun. 2015;6:8687.",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "467_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1038/s41467-017-00052-2",
+        "volume": "8",
+        "author": "G Kar",
+        "year": "2017",
+        "unstructured": "Kar G, Kim JK, Kolodziejczyk AA, Natarajan KN, Torlai Triglia E, Mifsud B, et al. Flipping between Polycomb repressed and active transcriptional states introduces noise in gene expression. Nat Commun. 2017;8:36.",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "467_CR30",
+        "unstructured": "Liu S, Trapnell C. Single-cell transcriptome sequencing: recent advances and remaining challenges. F1000Res. 2016;5:182.",
+        "DOI": "10.12688/f1000research.7223.1",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1145",
+        "DOI": "10.1038/nbt.3711",
+        "volume": "34",
+        "author": "A Wagner",
+        "year": "2016",
+        "unstructured": "Wagner A, Regev A, Yosef N. Revealing the vectors of cellular identity with single-cell genomics. Nat Biotechnol. 2016;34:1145–60.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1016/j.molcel.2017.01.023",
+        "volume": "65",
+        "author": "C Ziegenhain",
+        "year": "2017",
+        "unstructured": "Ziegenhain C, Vieth B, Parekh S, Reinius B, Guillaumet-Adkins A, Smets M, et al. Comparative analysis of single-cell RNA sequencing methods. Mol Cell. 2017;65:631–43. e4.",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "467_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1038/nmeth.4220",
+        "volume": "14",
+        "author": "V Svensson",
+        "year": "2017",
+        "unstructured": "Svensson V, Natarajan KN, Ly LH, Miragaia RJ, Labalette C, Macaulay IC, et al. Power analysis of single-cell RNA-sequencing experiments. Nat Methods. 2017;14:381–7.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "925",
+        "DOI": "10.1126/science.aad7038",
+        "volume": "353",
+        "author": "N Habib",
+        "year": "2016",
+        "unstructured": "Habib N, Li Y, Heidenreich M, Swiech L, Avraham-Davidi I, Trombetta JJ, et al. Div-Seq: Single-nucleus RNA-Seq reveals dynamics of rare adult newborn neurons. Science. 2016;353:925–8.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR35",
+        "doi-asserted-by": "crossref",
+        "first-page": "11022",
+        "DOI": "10.1038/ncomms11022",
+        "volume": "7",
+        "author": "B Lacar",
+        "year": "2016",
+        "unstructured": "Lacar B, Linker SB, Jaeger BN, Krishnaswami S, Barron J, Kelder M, et al. Nuclear RNA-seq of single neurons reveals molecular signatures of activation. Nat Commun. 2016;7:11022.",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "467_CR36",
+        "first-page": "e158",
+        "volume": "44",
+        "author": "W Zeng",
+        "year": "2016",
+        "unstructured": "Zeng W, Jiang S, Kong X, El-Ali N, Ball AR, Ma CI, et al. Single-nucleus RNA-seq of differentiating human myoblasts reveals the extent of fate heterogeneity. Nucleic Acids Res. 2016;44:e158.",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "467_CR37",
+        "unstructured": "Cao J, Packer JS, Ramani V, Cusanovich DA, Huynh C, Daza R, et al. Comprehensive single cell transcriptional profiling of a multicellular organism by combinatorial indexing. In BioRxiv. 2017. https://doi.org/10.1101/104844 .",
+        "DOI": "10.1101/104844",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR38",
+        "unstructured": "Rosenberg AB, Roco C, Muscat RA, Kuchina A, Mukherjee S, Chen W, et al. Scaling single cell transcriptomics through split pool barcoding. In BioRxiv. 2017. https://doi.org/10.1101/105163 .",
+        "DOI": "10.1101/105163",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1038/nmeth.4145",
+        "volume": "14",
+        "author": "K Sheng",
+        "year": "2017",
+        "unstructured": "Sheng K, Cao W, Niu Y, Deng Q, Zong C. Effective detection of variation in single-cell transcriptomes using MATQ-seq. Nat Methods. 2017;14:267–70.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1186/s13059-015-0706-1",
+        "volume": "16",
+        "author": "X Fan",
+        "year": "2015",
+        "unstructured": "Fan X, Zhang X, Wu X, Guo H, Hu Y, Tang F, et al. Single-cell RNA-seq transcriptome analysis of linear and circular RNAs in mouse preimplantation embryos. Genome Biol. 2015;16:148.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1038/nmeth.1778",
+        "volume": "9",
+        "author": "T Kivioja",
+        "year": "2011",
+        "unstructured": "Kivioja T, Vähärautio A, Karlsson K, Bonke M, Enge M, Linnarsson S, et al. Counting absolute numbers of molecules using unique molecular identifiers. Nat Methods. 2011;9:72–4.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "250",
+        "DOI": "10.1038/icb.2015.107",
+        "volume": "94",
+        "author": "G Donati",
+        "year": "2016",
+        "unstructured": "Donati G. The niche in single-cell technologies. Immunol Cell Biol. 2016;94:250–5.",
+        "journal-title": "Immunol Cell Biol"
+      },
+      {
+        "key": "467_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.tig.2014.07.001",
+        "volume": "30",
+        "author": "EL Dijk van",
+        "year": "2014",
+        "unstructured": "van Dijk EL, Auger H, Jaszczyszyn Y, Thermes C. Ten years of next-generation sequencing technology. Trends Genet. 2014;30:418–26.",
+        "journal-title": "Trends Genet"
+      },
+      {
+        "key": "467_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1038/nmeth.2694",
+        "volume": "11",
+        "author": "AR Wu",
+        "year": "2014",
+        "unstructured": "Wu AR, Neff NF, Kalisky T, Dalerba P, Treutlein B, Rothenberg ME, et al. Quantitative assessment of single-cell RNA-sequencing methods. Nat Methods. 2014;11:41–6.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "1202",
+        "DOI": "10.1016/j.cell.2015.05.002",
+        "volume": "161",
+        "author": "EZ Macosko",
+        "year": "2015",
+        "unstructured": "Macosko EZ, Basu A, Satija R, Nemesh J, Shekhar K, Goldman M, et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. Cell. 2015;161:1202–14.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1187",
+        "DOI": "10.1016/j.cell.2015.04.044",
+        "volume": "161",
+        "author": "AM Klein",
+        "year": "2015",
+        "unstructured": "Klein AM, Mazutis L, Akartuna I, Tallapragada N, Veres A, Li V, et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell. 2015;161:1187–201.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "14049",
+        "DOI": "10.1038/ncomms14049",
+        "volume": "8",
+        "author": "GX Zheng",
+        "year": "2017",
+        "unstructured": "Zheng GX, Terry JM, Belgrader P, Ryvkin P, Bent ZW, Wilson R, et al. Massively parallel digital transcriptional profiling of single cells. Nat Commun. 2017;8:14049.",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "467_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1038/nn.3881",
+        "volume": "18",
+        "author": "D Usoskin",
+        "year": "2015",
+        "unstructured": "Usoskin D, Furlan A, Islam S, Abdo H, Lönnerberg P, Lou D, et al. Unbiased classification of sensory neuron types by large-scale single-cell RNA sequencing. Nat Neurosci. 2015;18:145–53.",
+        "journal-title": "Nat Neurosci"
+      },
+      {
+        "key": "467_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1413",
+        "DOI": "10.1016/j.cell.2015.10.068",
+        "volume": "163",
+        "author": "C Wang",
+        "year": "2015",
+        "unstructured": "Wang C, Yosef N, Gaublomme J, Wu C, Lee Y, Clish CB, et al. CD5L/AIM Regulates Lipid Biosynthesis and Restrains Th17 Cell Pathogenicity. Cell. 2015;163:1413–27.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "1400",
+        "DOI": "10.1016/j.cell.2015.11.009",
+        "volume": "163",
+        "author": "JT Gaublomme",
+        "year": "2015",
+        "unstructured": "Gaublomme JT, Yosef N, Lee Y, Gertner RS, Yang LV, Wu C, et al. Single-cell genomics unveils critical regulators of Th17 cell pathogenicity. Cell. 2015;163:1400–12.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR51",
+        "unstructured": "Regev A, Teichmann S, Lander ES, Amit I, Benoist C, Birney E, et al. The Human Cell Atlas. BioRxiv. 2017. https://doi.org/10.1101/121202 .",
+        "DOI": "10.1101/121202",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR52",
+        "unstructured": "Kang HM, Subramaniam M, Targ S, Nguyen M, Maliskova L, Wan E, et al. Multiplexing droplet-based single cell RNA-sequencing using natural genetic barcodes. BioRxiv. 2017. https://doi.org/10.1101/118778 .",
+        "DOI": "10.1101/118778",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1186/s13059-017-1171-9",
+        "volume": "18",
+        "author": "A Guillaumet-Adkins",
+        "year": "2017",
+        "unstructured": "Guillaumet-Adkins A, Rodríguez-Esteban G, Mereu E, Mendez-Lago M, Jaitin DA, Villanueva A, et al. Single-cell transcriptome conservation in cryopreserved cells and tissues. Genome Biol. 2017;18:45.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR54",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1186/s12915-017-0383-5",
+        "volume": "15",
+        "author": "J Alles",
+        "year": "2017",
+        "unstructured": "Alles J, Karaiskos N, Praktiknjo SD, Grosswendt S, Wahle P, Ruffault PL, et al. Cell fixation and preservation for droplet-based single-cell transcriptomics. BMC Biol. 2017;15:44.",
+        "journal-title": "BMC Biol"
+      },
+      {
+        "key": "467_CR55",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1038/nmeth.3629",
+        "volume": "13",
+        "author": "ER Thomsen",
+        "year": "2016",
+        "unstructured": "Thomsen ER, Mich JK, Yao Z, Hodge RD, Doyle AM, Jang S, et al. Fixed single-cell transcriptomic characterization of human radial glial diversity. Nat Methods. 2016;13:87–93.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR56",
+        "doi-asserted-by": "crossref",
+        "first-page": "610",
+        "DOI": "10.1016/j.molcel.2015.04.005",
+        "volume": "58",
+        "author": "AA Kolodziejczyk",
+        "year": "2015",
+        "unstructured": "Kolodziejczyk AA, Kim JK, Svensson V, Marioni JC, Teichmann SA. The technology and biology of single-cell RNA sequencing. Mol Cell. 2015;58:610–20.",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "467_CR57",
+        "doi-asserted-by": "crossref",
+        "first-page": "1096",
+        "DOI": "10.1038/nmeth.2639",
+        "volume": "10",
+        "author": "S Picelli",
+        "year": "2013",
+        "unstructured": "Picelli S, Björklund Å, Faridani OR, Sagasser S, Winberg G, Sandberg R. Smart-seq2 for sensitive full-length transcriptome profiling in single cells. Nat Methods. 2013;10:1096–8.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR58",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1186/1471-2164-6-150",
+        "volume": "6",
+        "author": "ERC Consortium",
+        "year": "2005",
+        "unstructured": "Consortium ERC. Proposed methods for testing and selecting the ERCC external RNA controls. BMC Genomics. 2005;6:150.",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "467_CR59",
+        "doi-asserted-by": "crossref",
+        "first-page": "896",
+        "DOI": "10.1038/nbt.2931",
+        "volume": "32",
+        "author": "D Risso",
+        "year": "2014",
+        "unstructured": "Risso D, Ngai J, Speed TP, Dudoit S. Normalization of RNA-seq data using factor analysis of control genes or samples. Nat Biotechnol. 2014;32:896–902.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR60",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1186/s13059-016-0938-8",
+        "volume": "17",
+        "author": "T Hashimshony",
+        "year": "2016",
+        "unstructured": "Hashimshony T, Senderovich N, Avital G, Klochendler A, de Leeuw Y, Anavy L, et al. CEL-Seq2. sensitive highly-multiplexed single-cell RNA-Seq. Genome Biol. 2016;17:77.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR61",
+        "doi-asserted-by": "crossref",
+        "first-page": "422",
+        "DOI": "10.1038/ni.3688",
+        "volume": "18",
+        "author": "B Kakaradov",
+        "year": "2017",
+        "unstructured": "Kakaradov B, Arsenio J, Widjaja CE, He Z, Aigner S, Metz PJ, et al. Early transcriptional and epigenetic regulation of CD8(+) T cell differentiation revealed by single-cell RNA sequencing. Nat Immunol. 2017;18:422–32.",
+        "journal-title": "Nat Immunol"
+      },
+      {
+        "key": "467_CR62",
+        "unstructured": "Vieth B, Ziegenhain C, Parekh S, Enard W, Hellmann I. powsimR: Power analysis for bulk and single cell RNA-seq experiments. BioRxiv. 2017. https://doi.org/10.1101/117150 .",
+        "DOI": "10.1101/117150",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1053",
+        "DOI": "10.1038/nbt.2967",
+        "volume": "32",
+        "author": "AA Pollen",
+        "year": "2014",
+        "unstructured": "Pollen AA, Nowakowski TJ, Shuga J, Wang X, Leyrat AA, Lui JH, et al. Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex. Nat Biotechnol. 2014;32:1053–8.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR64",
+        "doi-asserted-by": "crossref",
+        "first-page": "666",
+        "DOI": "10.1016/j.celrep.2012.08.003",
+        "volume": "2",
+        "author": "T Hashimshony",
+        "year": "2012",
+        "unstructured": "Hashimshony T, Wagner F, Sher N, Yanai I. CEL-Seq: single-cell RNA-Seq by multiplexed linear amplification. Cell Rep. 2012;2:666–73.",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "467_CR65",
+        "doi-asserted-by": "crossref",
+        "first-page": "1160",
+        "DOI": "10.1101/gr.110882.110",
+        "volume": "21",
+        "author": "S Islam",
+        "year": "2011",
+        "unstructured": "Islam S, Kjällquist U, Moliner A, Zajac P, Fan JB, Lönnerberg P, et al. Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq. Genome Res. 2011;21:1160–7.",
+        "journal-title": "Genome Res"
+      },
+      {
+        "key": "467_CR66",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/s12064-012-0162-3",
+        "volume": "131",
+        "author": "GP Wagner",
+        "year": "2012",
+        "unstructured": "Wagner GP, Kin K, Lynch VJ. Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples. Theory Biosci. 2012;131:281–5.",
+        "journal-title": "Theory Biosci"
+      },
+      {
+        "key": "467_CR67",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1126/science.1198817",
+        "volume": "332",
+        "author": "DM Suter",
+        "year": "2011",
+        "unstructured": "Suter DM, Molina N, Gatfield D, Schneider K, Schibler U, Naef F. Mammalian genes are transcribed with widely different bursting kinetics. Science. 2011;332:472–4.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "467_CR68",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1016/j.molcel.2015.03.005",
+        "volume": "58",
+        "author": "O Padovan-Merhar",
+        "year": "2015",
+        "unstructured": "Padovan-Merhar O, Nair GP, Biaesch AG, Mayer A, Scarfone S, Foley SW, et al. Single mammalian cells compensate for differences in cellular volume and DNA copy number through independent global transcriptional mechanisms. Mol Cell. 2015;58:339–52.",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "467_CR69",
+        "doi-asserted-by": "crossref",
+        "first-page": "797",
+        "DOI": "10.1091/mbc.E14-08-1296",
+        "volume": "26",
+        "author": "H Kempe",
+        "year": "2015",
+        "unstructured": "Kempe H, Schwabe A, Crémazy F, Verschure PJ, Bruggeman FJ. The volumes and transcript counts of single cells reveal concentration homeostasis and capture biological noise. Mol Biol Cell. 2015;26:797–804.",
+        "journal-title": "Mol Biol Cell"
+      },
+      {
+        "key": "467_CR70",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1038/nbt.3102",
+        "volume": "33",
+        "author": "F Buettner",
+        "year": "2015",
+        "unstructured": "Buettner F, Natarajan KN, Casale FP, Proserpio V, Scialdone A, Theis FJ, et al. Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. Nat Biotechnol. 2015;33:155–60.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR71",
+        "doi-asserted-by": "crossref",
+        "first-page": "33892",
+        "DOI": "10.1038/srep33892",
+        "volume": "6",
+        "author": "M Barron",
+        "year": "2016",
+        "unstructured": "Barron M, Li J. Identifying and removing the cell-cycle effect from single-cell RNA-sequencing data. Sci Rep. 2016;6:33892.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "467_CR72",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1016/j.copbio.2016.03.015",
+        "volume": "39",
+        "author": "KA Janes",
+        "year": "2016",
+        "unstructured": "Janes KA. Single-cell states versus single-cell atlases - two classes of heterogeneity that differ in meaning and method. Curr Opin Biotechnol. 2016;39:120–5.",
+        "journal-title": "Curr Opin Biotechnol"
+      },
+      {
+        "key": "467_CR73",
+        "doi-asserted-by": "crossref",
+        "first-page": "637",
+        "DOI": "10.1038/nmeth.2930",
+        "volume": "11",
+        "author": "D Grün",
+        "year": "2014",
+        "unstructured": "Grün D, Kester L, van Oudenaarden A. Validation of noise models for single-cell transcriptomics. Nat Methods. 2014;11:637–40.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR74",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1186/s13059-016-0927-y",
+        "volume": "17",
+        "author": "R Bacher",
+        "year": "2016",
+        "unstructured": "Bacher R, Kendziorski C. Design and computational analysis of single-cell RNA-sequencing experiments. Genome Biol. 2016;17:63.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR75",
+        "unstructured": "Zhu X, Wolfgruber T, Tasato A, Garmire L. Granatum: a graphical single-cell RNA-seq analysis pipeline for genomics scientists. BioRxiv. 2017. https://doi.org/10.1101/110759 .",
+        "DOI": "10.1101/110759",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "467_CR76",
+        "first-page": "2122",
+        "volume": "5",
+        "author": "AT Lun",
+        "year": "2016",
+        "unstructured": "Lun AT, McCarthy DJ, Marioni JC. A step-by-step workflow for low-level analysis of single-cell RNA-seq data with Bioconductor. F1000Res. 2016;5:2122.",
+        "journal-title": "F1000Res"
+      },
+      {
+        "key": "467_CR77",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1038/nrg3833",
+        "volume": "16",
+        "author": "O Stegle",
+        "year": "2015",
+        "unstructured": "Stegle O, Teichmann SA, Marioni JC. Computational and analytical challenges in single-cell transcriptomics. Nat Rev Genet. 2015;16:133–45.",
+        "journal-title": "Nat Rev Genet"
+      },
+      {
+        "key": "467_CR78",
+        "doi-asserted-by": "crossref",
+        "first-page": "2514",
+        "DOI": "10.1093/bioinformatics/btw176",
+        "volume": "32",
+        "author": "P Jiang",
+        "year": "2016",
+        "unstructured": "Jiang P, Thomson JA, Stewart R. Quality control of single-cell RNA-seq by SinQC. Bioinformatics. 2016;32:2514–6.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "467_CR79",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1186/s13059-016-0888-1",
+        "volume": "17",
+        "author": "T Ilicic",
+        "year": "2016",
+        "unstructured": "Ilicic T, Kim JK, Kolodziejczyk AA, Bagger FO, McCarthy DJ, Marioni JC, et al. Classification of low quality cells from single-cell RNA-seq data. Genome Biol. 2016;17:29.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR80",
+        "first-page": "1179",
+        "volume": "33",
+        "author": "DJ McCarthy",
+        "year": "2017",
+        "unstructured": "McCarthy DJ, Campbell KR, Lun AT, Wills QF. Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R. Bioinformatics. 2017;33:1179–86.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "467_CR81",
+        "doi-asserted-by": "crossref",
+        "first-page": "2219",
+        "DOI": "10.1093/bioinformatics/btw201",
+        "volume": "32",
+        "author": "A Diaz",
+        "year": "2016",
+        "unstructured": "Diaz A, Liu SJ, Sandoval C, Pollen A, Nowakowski TJ, Lim DA, et al. SCell: integrated analysis of single-cell RNA-seq data. Bioinformatics. 2016;32:2219–20.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "467_CR82",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.3389/fgene.2016.00163",
+        "volume": "7",
+        "author": "OB Poirion",
+        "year": "2016",
+        "unstructured": "Poirion OB, Zhu X, Ching T, Garmire L. Single-cell transcriptomics bioinformatics and computational challenges. Front Genet. 2016;7:163.",
+        "journal-title": "Front Genet"
+      },
+      {
+        "key": "467_CR83",
+        "unstructured": "Rostom R, Svensson V, Teichmann SA, Kar G. Computational approaches for interpreting scRNA-seq data. FEBS Lett. 2017. doi: 10.1002/1873-3468.12684 .",
+        "DOI": "10.1002/1873-3468.12684",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "467_CR84",
+        "doi-asserted-by": "crossref",
+        "first-page": "re6",
+        "DOI": "10.1126/scisignal.aad1932",
+        "volume": "9",
+        "author": "T Ronan",
+        "year": "2016",
+        "unstructured": "Ronan T, Qi Z, Naegle KM. Avoiding common pitfalls when clustering biological data. Sci Signal. 2016;9:re6.",
+        "journal-title": "Sci Signal"
+      },
+      {
+        "key": "467_CR85",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1038/nmeth.4236",
+        "volume": "14",
+        "author": "VY Kiselev",
+        "year": "2017",
+        "unstructured": "Kiselev VY, Kirschner K, Schaub MT, Andrews T, Yiu A, Chandra T, et al. SC3: consensus clustering of single-cell RNA-seq data. Nat Methods. 2017;14:483–6.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR86",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1186/s12859-016-0984-y",
+        "volume": "17",
+        "author": "J Žurauskienė",
+        "year": "2016",
+        "unstructured": "Žurauskienė J, Yau C. pcaReduce: hierarchical clustering of single cell transcriptional profiles. BMC Bioinf. 2016;17:140.",
+        "journal-title": "BMC Bioinf"
+      },
+      {
+        "key": "467_CR87",
+        "doi-asserted-by": "crossref",
+        "first-page": "1974",
+        "DOI": "10.1093/bioinformatics/btv088",
+        "volume": "31",
+        "author": "C Xu",
+        "year": "2015",
+        "unstructured": "Xu C, Su Z. Identification of cell types from single-cell transcriptomes using a novel clustering method. Bioinformatics. 2015;31:1974–80.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "467_CR88",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1004575",
+        "DOI": "10.1371/journal.pcbi.1004575",
+        "volume": "11",
+        "author": "M Guo",
+        "year": "2015",
+        "unstructured": "Guo M, Wang H, Potter SS, Whitsett JA, Xu Y. SINCERA: a pipeline for single-cell RNA-seq profiling analysis. PLoS Comput Biol. 2015;11:e1004575.",
+        "journal-title": "PLoS Comput Biol"
+      },
+      {
+        "key": "467_CR89",
+        "unstructured": "Jaakkola MK, Seyednasrollah F, Mehmood A, Elo LL. Comparison of methods to detect differentially expressed genes between single-cell populations. Brief Bioinform. 2016. doi: 10.1093/bib/bbw057 .",
+        "DOI": "10.1093/bib/bbw057",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "467_CR90",
+        "doi-asserted-by": "crossref",
+        "first-page": "E5643",
+        "DOI": "10.1073/pnas.1408993111",
+        "volume": "111",
+        "author": "E Marco",
+        "year": "2014",
+        "unstructured": "Marco E, Karp RL, Guo G, Robson P, Hart AH, Trippa L, et al. Bifurcation analysis of single-cell gene expression data reveals epigenetic landscape. Proc Natl Acad Sci U S A. 2014;111:E5643–50.",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "467_CR91",
+        "doi-asserted-by": "crossref",
+        "first-page": "637",
+        "DOI": "10.1038/nbt.3569",
+        "volume": "34",
+        "author": "M Setty",
+        "year": "2016",
+        "unstructured": "Setty M, Tadmor MD, Reich-Zeliger S, Angel O, Salame TM, Kathail P, et al. Wishbone identifies bifurcating developmental trajectories from single-cell data. Nat Biotechnol. 2016;34:637–45.",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "467_CR92",
+        "doi-asserted-by": "crossref",
+        "first-page": "11988",
+        "DOI": "10.1038/ncomms11988",
+        "volume": "7",
+        "author": "J Chen",
+        "year": "2016",
+        "unstructured": "Chen J, Schlitzer A, Chakarov S, Ginhoux F, Poidinger M. Mpath maps multi-branching single-cell trajectories revealing progenitor cell progression during development. Nat Commun. 2016;7:11988.",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "467_CR93",
+        "doi-asserted-by": "crossref",
+        "first-page": "2989",
+        "DOI": "10.1093/bioinformatics/btv325",
+        "volume": "31",
+        "author": "L Haghverdi",
+        "year": "2015",
+        "unstructured": "Haghverdi L, Buettner F, Theis FJ. Diffusion maps for high-dimensional single-cell analysis of differentiation data. Bioinformatics. 2015;31:2989–98.",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "467_CR94",
+        "doi-asserted-by": "crossref",
+        "first-page": "845",
+        "DOI": "10.1038/nmeth.3971",
+        "volume": "13",
+        "author": "L Haghverdi",
+        "year": "2016",
+        "unstructured": "Haghverdi L, Büttner M, Wolf FA, Buettner F, Theis FJ. Diffusion pseudotime robustly reconstructs lineage branching. Nat Methods. 2016;13:845–8.",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "467_CR95",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1186/s13059-016-0975-3",
+        "volume": "17",
+        "author": "JD Welch",
+        "year": "2016",
+        "unstructured": "Welch JD, Hartemink AJ, Prins JF. SLICER: inferring branched, nonlinear cellular trajectories from single cell RNA-seq data. Genome Biol. 2016;17:106.",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "467_CR96",
+        "unstructured": "Svensson V, Vento-Tormo R, Teichmann SA. Moore’s law in single cell transcriptomics. ArXiv preprint arXiv:1704.01379v2 [q-bio.GN]. 2017."
+      },
+      {
+        "key": "467_CR97",
+        "doi-asserted-by": "crossref",
+        "first-page": "3375",
+        "DOI": "10.4049/jimmunol.1700272",
+        "volume": "198",
+        "author": "H Ner-Gaon",
+        "year": "2017",
+        "unstructured": "Ner-Gaon H, Melchior A, Golan N, Ben-Haim Y, Shay T. JingleBells: a repository of immune-related single-cell RNA-sequencing datasets. J Immunol. 2017;198:3375–9.",
+        "journal-title": "J Immunol"
+      },
+      {
+        "key": "467_CR98",
+        "doi-asserted-by": "crossref",
+        "first-page": "1867",
+        "DOI": "10.1016/j.cell.2016.11.048",
+        "volume": "167",
+        "author": "B Adamson",
+        "year": "2016",
+        "unstructured": "Adamson B, Norman TM, Jost M, Cho MY, Nuñez JK, Chen Y, et al. A multiplexed single-cell CRISPR screening platform enables systematic dissection of the unfolded protein response. Cell. 2016;167:1867–82. e21.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR99",
+        "doi-asserted-by": "crossref",
+        "first-page": "1853",
+        "DOI": "10.1016/j.cell.2016.11.038",
+        "volume": "167",
+        "author": "A Dixit",
+        "year": "2016",
+        "unstructured": "Dixit A, Parnas O, Li B, Chen J, Fulco CP, Jerby-Arnon L, et al. Perturb-Seq. Dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens. Cell. 2016;167:1853–66. e17.",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "467_CR100",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/j.tig.2016.12.003",
+        "volume": "33",
+        "author": "IC Macaulay",
+        "year": "2017",
+        "unstructured": "Macaulay IC, Ponting CP, Voet T. Single-cell multiomics: multiple measurements from single cells. Trends Genet. 2017;33:155–68.",
+        "journal-title": "Trends Genet"
+      },
+      {
+        "key": "467_CR101",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1038/nmeth.4179",
+        "volume": "14",
+        "author": "TM Gierahn",
+        "year": "2017",
+        "unstructured": "Gierahn TM, Wadsworth MH, Hughes TK, Bryson BD, Butler A, Satija R, et al. Seq-Well: portable, low-cost RNA sequencing of single cells at high throughput. Nat Methods. 2017;14:395–8.",
+        "journal-title": "Nat Methods"
+      }
+    ],
+    "container-title": [
+      "Genome Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s13073-017-0467-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          2
+        ]
+      ],
+      "date-time": "2019-10-02T14:48:36Z",
+      "timestamp": 1570027716000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          18
+        ]
+      ]
+    },
+    "references-count": 101,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "467"
+    ],
+    "URL": "http://dx.doi.org/10.1186/s13073-017-0467-4",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "1756-994X"
+    ],
+    "issn-type": [
+      {
+        "value": "1756-994X",
+        "type": "electronic"
+      }
+    ],
+    "article-number": "75"
+  }
+}

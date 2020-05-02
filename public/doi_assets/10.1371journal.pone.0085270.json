@@ -1,0 +1,452 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2020-03-30T02:48:32Z",
+      "timestamp": 1585536512292
+    },
+    "reference-count": 25,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "12",
+    "license": [
+      {
+        "URL": "http://creativecommons.org/licenses/by/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              12,
+              31
+            ]
+          ],
+          "date-time": "2013-12-31T00:00:00Z",
+          "timestamp": 1388448000000
+        },
+        "delay-in-days": 0,
+        "content-version": "vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "DOI": "10.1371/journal.pone.0085270",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2013-12-31T17:26:19Z",
+      "timestamp": 1388510779000
+    },
+    "page": "e85270",
+    "update-policy": "http://dx.doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 31,
+    "title": [
+      "Base Preferences in Non-Templated Nucleotide Incorporation by MMLV-Derived Reverse Transcriptases"
+    ],
+    "prefix": "10.1371",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Pawel",
+        "family": "Zajac",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Saiful",
+        "family": "Islam",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Hannah",
+        "family": "Hochgerner",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peter",
+        "family": "Lönnerberg",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sten",
+        "family": "Linnarsson",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          31
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1038/nrg2934",
+        "article-title": "RNA sequencing: advances, challenges and opportunities",
+        "volume": "12",
+        "author": "F Ozsolak",
+        "year": "2011",
+        "journal-title": "Nat Rev Genet"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1038/nrg2484",
+        "article-title": "RNA-Seq: a revolutionary tool for transcriptomics",
+        "volume": "10",
+        "author": "Z Wang",
+        "year": "2009",
+        "journal-title": "Nat Rev Genet"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "9677",
+        "DOI": "10.1093/nar/16.20.9677",
+        "article-title": "Novel non-templated nucleotide addition reactions catalyzed by procaryotic and eucaryotic DNA polymerases",
+        "volume": "16",
+        "author": "JM Clark",
+        "year": "1988",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "ref4",
+        "first-page": "4669",
+        "article-title": "Human immunodeficiency virus 1 reverse transcriptase. Template binding, processivity, strand displacement synthesis, and template switching",
+        "volume": "264",
+        "author": "HE Huber",
+        "year": "1989",
+        "journal-title": "J Biol Chem"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "e31",
+        "DOI": "10.1093/nar/27.21.e31",
+        "article-title": "CapSelect: a highly sensitive method for 5&apos; CAP-dependent enrichment of full-length cDNA in PCR-mediated analysis of mRNAs",
+        "volume": "27",
+        "author": "WM Schmidt",
+        "year": "1999",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.2144/01304pf02",
+        "article-title": "Reverse transcriptase template switching: a SMART approach for full-length cDNA library construction",
+        "volume": "30",
+        "author": "YY Zhu",
+        "year": "2001",
+        "journal-title": "BioTechniques"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1038/nmeth.1223",
+        "article-title": "Stem cell transcriptome profiling via massive-scale mRNA sequencing",
+        "volume": "5",
+        "author": "N Cloonan",
+        "year": "2008",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1038/nature09807",
+        "article-title": "Tumour evolution inferred by single-cell sequencing",
+        "volume": "472",
+        "author": "N Navin",
+        "year": "2011",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "777",
+        "DOI": "10.1038/nbt.2282",
+        "article-title": "Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells",
+        "volume": "30",
+        "author": "D Ramsköld",
+        "year": "2012",
+        "journal-title": "Nat Biotechnol"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1160",
+        "DOI": "10.1101/gr.110882.110",
+        "article-title": "Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq",
+        "volume": "21",
+        "author": "S Islam",
+        "year": "2011",
+        "journal-title": "Genome Res"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "813",
+        "DOI": "10.1038/nprot.2012.022",
+        "article-title": "Highly multiplexed and strand-specific single-cell RNA 5&apos; end sequencing",
+        "volume": "7",
+        "author": "S Islam",
+        "year": "2012",
+        "journal-title": "Nat Protoc"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "e31",
+        "DOI": "10.1093/nar/27.21.e31",
+        "article-title": "CapSelect: a highly sensitive method for 5&apos; CAP-dependent enrichment of full-length cDNA in PCR-mediated analysis of mRNAs",
+        "volume": "27",
+        "author": "WM Schmidt",
+        "year": "1999",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "ref13",
+        "author": "M Salimullah",
+        "year": "2011",
+        "article-title": "NanoCAGE: a high-resolution technique to discover and interrogate cell transcriptomes. Cold Spring Harbor protocols 2011: pdb prot5559"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1038/nmeth.1778",
+        "article-title": "Counting absolute numbers of molecules using unique molecular identifiers",
+        "volume": "9",
+        "author": "T Kivioja",
+        "year": "2012",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1186/1471-2164-11-413",
+        "article-title": "Incorporation of non-natural nucleotides into template-switching oligonucleotides reduces background and improves cDNA synthesis from very small RNA samples",
+        "volume": "11",
+        "author": "J Kapteyn",
+        "year": "2010",
+        "journal-title": "BMC Genomics"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1016/j.ab.2009.10.022",
+        "article-title": "A guide for in-house design of template-switch-based 5&apos; rapid amplification of cDNA ends systems",
+        "volume": "397",
+        "author": "FL Pinto",
+        "year": "2010",
+        "journal-title": "Anal Biochem"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "e44",
+        "DOI": "10.1093/nar/gks1128",
+        "article-title": "Suppression of artifacts and barcode bias in high-throughput transcriptome analyses utilizing template switching",
+        "volume": "41",
+        "author": "DT Tang",
+        "year": "2013",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "e10029",
+        "DOI": "10.1371/journal.pone.0010029",
+        "article-title": "Increased throughput by parallelization of library preparation for massive sequencing",
+        "volume": "5",
+        "author": "S Lundin",
+        "year": "2010",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1073/pnas.95.2.520",
+        "article-title": "Thermostabilization and thermoactivation of thermolabile enzymes by trehalose and its application for the synthesis of full length cDNA",
+        "volume": "95",
+        "author": "P Carninci",
+        "year": "1998",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.1038/srep00821",
+        "article-title": "Targeted transcript profiling by sequencing",
+        "volume": "2",
+        "author": "P Zajac",
+        "year": "2012",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1038/nmeth.1470",
+        "article-title": "Linking promoters to functional transcripts in small samples with nanoCAGE and CAGEscan",
+        "volume": "7",
+        "author": "C Plessy",
+        "year": "2010",
+        "journal-title": "Nat Methods"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "919",
+        "DOI": "10.1016/j.cell.2008.10.012",
+        "article-title": "3&apos; end processing of a long nuclear-retained noncoding RNA yields a tRNA-like cytoplasmic RNA",
+        "volume": "135",
+        "author": "JE Wilusz",
+        "year": "2008",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "e81",
+        "DOI": "10.1093/nar/gkr217",
+        "article-title": "A method for counting PCR template molecules with application to next-generation sequencing",
+        "volume": "39",
+        "author": "JA Casbon",
+        "year": "2011",
+        "journal-title": "Nucleic Acids Res"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "14508",
+        "DOI": "10.1073/pnas.1208715109",
+        "article-title": "Detection of ultra-rare mutations by next-generation sequencing",
+        "volume": "109",
+        "author": "MW Schmitt",
+        "year": "2012",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1347",
+        "DOI": "10.1073/pnas.1118018109",
+        "article-title": "Digital RNA sequencing minimizes sequence-dependent bias and amplification noise with optimized single-molecule barcodes",
+        "volume": "109",
+        "author": "K Shiroguchi",
+        "year": "2012",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      }
+    ],
+    "container-title": [
+      "PLoS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://dx.plos.org/10.1371/journal.pone.0085270",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          5
+        ]
+      ],
+      "date-time": "2019-08-05T13:27:57Z",
+      "timestamp": 1565011677000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Luis",
+        "family": "Menéndez-Arias",
+        "sequence": "first",
+        "affiliation": []
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          31
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            31
+          ]
+        ]
+      },
+      "issue": "12"
+    },
+    "URL": "http://dx.doi.org/10.1371/journal.pone.0085270",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ]
+  }
+}
