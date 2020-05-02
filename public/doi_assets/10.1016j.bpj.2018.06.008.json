@@ -1,0 +1,263 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2020-03-03T13:40:09Z",
+      "timestamp": 1583242809197
+    },
+    "reference-count": 66,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2018-07-01T00:00:00Z",
+          "timestamp": 1530403200000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      },
+      {
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2019-07-17T00:00:00Z",
+          "timestamp": 1563321600000
+        },
+        "delay-in-days": 381,
+        "content-version": "vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "21525521",
+          "21327808",
+          "21675098"
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011199",
+        "name": "State Key Laboratory of Microbial Resources",
+        "doi-asserted-by": "crossref",
+        "award": []
+      },
+      {
+        "DOI": "10.13039/501100002367",
+        "name": "Chinese Academy of Sciences",
+        "doi-asserted-by": "crossref",
+        "award": []
+      },
+      {
+        "name": "Ministry of Science and Technology of China",
+        "award": [
+          "2016YFC0900100"
+        ]
+      },
+      {
+        "name": "Beijing Advanced Innovation Center for Genomics",
+        "award": []
+      },
+      {
+        "name": "Institute of Microbiology",
+        "award": []
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "biophysj.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Biophysical Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bpj.2018.06.008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          26
+        ]
+      ],
+      "date-time": "2018-06-26T14:30:23Z",
+      "timestamp": 1530023423000
+    },
+    "page": "173-180",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "Recent Developments in Single-Cell RNA-Seq of Microorganisms"
+    ],
+    "prefix": "10.1016",
+    "volume": "115",
+    "author": [
+      {
+        "given": "Yi",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jiaxin",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yanyi",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jianbin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Biophysical Journal"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0006349518306842?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0006349518306842?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2020-03-03T13:11:50Z",
+      "timestamp": 1583241110000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7
+        ]
+      ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            7
+          ]
+        ]
+      },
+      "issue": "2"
+    },
+    "alternative-id": [
+      "S0006349518306842"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.bpj.2018.06.008",
+    "relation": {},
+    "ISSN": [
+      "0006-3495"
+    ],
+    "issn-type": [
+      {
+        "value": "0006-3495",
+        "type": "print"
+      }
+    ],
+    "subject": [
+      "Biophysics"
+    ],
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Recent Developments in Single-Cell RNA-Seq of Microorganisms",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Biophysical Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bpj.2018.06.008",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2018 Biophysical Society.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

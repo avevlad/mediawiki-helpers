@@ -1,0 +1,228 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2020-04-30T10:28:20Z",
+      "timestamp": 1588242500205
+    },
+    "reference-count": 85,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2015-05-01T00:00:00Z",
+          "timestamp": 1430438400000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      },
+      {
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2016-05-21T00:00:00Z",
+          "timestamp": 1463788800000
+        },
+        "delay-in-days": 386,
+        "content-version": "vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cell.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Molecular Cell"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.molcel.2015.04.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2015-05-21T15:45:36Z",
+      "timestamp": 1432223136000
+    },
+    "page": "610-620",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 420,
+    "title": [
+      "The Technology and Biology of Single-Cell RNA Sequencing"
+    ],
+    "prefix": "10.1016",
+    "volume": "58",
+    "author": [
+      {
+        "given": "Aleksandra A.",
+        "family": "Kolodziejczyk",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Jong Kyoung",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Valentine",
+        "family": "Svensson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John C.",
+        "family": "Marioni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Sarah A.",
+        "family": "Teichmann",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Molecular Cell"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1097276515002610?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1097276515002610?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2019-08-25T11:12:44Z",
+      "timestamp": 1566731564000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          5
+        ]
+      ]
+    },
+    "references-count": 85,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            5
+          ]
+        ]
+      },
+      "issue": "4"
+    },
+    "alternative-id": [
+      "S1097276515002610"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.molcel.2015.04.005",
+    "relation": {},
+    "ISSN": [
+      "1097-2765"
+    ],
+    "issn-type": [
+      {
+        "value": "1097-2765",
+        "type": "print"
+      }
+    ],
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "The Technology and Biology of Single-Cell RNA Sequencing",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Molecular Cell",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.molcel.2015.04.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

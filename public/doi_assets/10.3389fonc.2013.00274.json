@@ -1,0 +1,130 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2020-03-29T21:08:16Z",
+      "timestamp": 1585516096256
+    },
+    "reference-count": 0,
+    "publisher": "Frontiers Media SA",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Front. Oncol."
+    ],
+    "DOI": "10.3389/fonc.2013.00274",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2013-11-07T11:08:48Z",
+      "timestamp": 1383822528000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Direct Cell Lysis for Single-Cell Gene Expression Profiling"
+    ],
+    "prefix": "10.3389",
+    "volume": "3",
+    "author": [
+      {
+        "given": "David",
+        "family": "Svec",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Daniel",
+        "family": "Andersson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Milos",
+        "family": "Pekny",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Robert",
+        "family": "Sjöback",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Mikael",
+        "family": "Kubista",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anders",
+        "family": "Ståhlberg",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": [
+      "Frontiers in Oncology"
+    ],
+    "original-title": [],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          18
+        ]
+      ],
+      "date-time": "2015-02-18T19:42:28Z",
+      "timestamp": 1424288548000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "http://dx.doi.org/10.3389/fonc.2013.00274",
+    "relation": {},
+    "ISSN": [
+      "2234-943X"
+    ],
+    "issn-type": [
+      {
+        "value": "2234-943X",
+        "type": "electronic"
+      }
+    ]
+  }
+}

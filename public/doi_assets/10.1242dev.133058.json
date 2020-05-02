@@ -1,0 +1,871 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2020-04-12T17:03:41Z",
+      "timestamp": 1586711021590
+    },
+    "reference-count": 132,
+    "publisher": "The Company of Biologists",
+    "issue": "1",
+    "license": [
+      {
+        "URL": "http://www.biologists.com/user-licence-1-1",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2017-07-01T00:00:00Z",
+          "timestamp": 1498867200000
+        },
+        "delay-in-days": 181,
+        "content-version": "vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": []
+      },
+      {
+        "DOI": "10.13039/100000062",
+        "name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "K01DK096013"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Development"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1242/dev.133058",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2017-01-03T12:58:27Z",
+      "timestamp": 1483448307000
+    },
+    "page": "17-32",
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": [
+      "Understanding development and stem cells using single cell-based analyses of gene expression"
+    ],
+    "prefix": "10.1242",
+    "volume": "144",
+    "author": [
+      {
+        "given": "Pavithra",
+        "family": "Kumar",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Yuqi",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3652-2540",
+        "authenticated-orcid": false,
+        "given": "Patrick",
+        "family": "Cahan",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "237",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2018070213283940000_144.1.17.1",
+        "DOI": "10.1038/nbt.3209",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.2",
+        "DOI": "10.1093/bioinformatics/btv715",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.3",
+        "DOI": "10.1038/nmeth.3728",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.4",
+        "DOI": "10.1186/s13059-016-0927-y",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.5",
+        "DOI": "10.1021/ac901049w",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.6",
+        "DOI": "10.1016/j.cell.2014.04.005",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.7",
+        "DOI": "10.1016/j.tibtech.2016.05.010",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.8",
+        "DOI": "10.1242/dev.131235",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.9",
+        "DOI": "10.4049/jimmunol.1001158",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.10",
+        "DOI": "10.1038/332459a0",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.11",
+        "DOI": "10.1038/nmeth.2645",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.12",
+        "DOI": "10.1242/dev.110601",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.13",
+        "DOI": "10.1038/nature14590",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.14",
+        "DOI": "10.1038/nbt.3102",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.15",
+        "DOI": "10.1016/j.cell.2012.08.023",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.16",
+        "DOI": "10.1016/j.cell.2015.06.016",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.17",
+        "DOI": "10.1038/nrm3584",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.18",
+        "DOI": "10.1073/pnas.1520760112",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.19",
+        "DOI": "10.1038/nature06403",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.20",
+        "DOI": "10.1093/bioinformatics/btu777",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.21",
+        "DOI": "10.1186/s13059-016-1033-x",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.22",
+        "DOI": "10.1126/science.aab1601",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.23",
+        "DOI": "10.1016/j.devcel.2016.10.001",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.24",
+        "DOI": "10.1126/science.1245316",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.25",
+        "DOI": "10.1038/nbt.3129",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.26",
+        "DOI": "10.1093/hmg/ddh157",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.27",
+        "DOI": "10.1073/pnas.89.7.3010",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.28",
+        "DOI": "10.1038/icb.2016.16",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.29",
+        "DOI": "10.1016/j.stem.2014.10.015",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.30",
+        "DOI": "10.1186/s13059-015-0844-5",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.31",
+        "DOI": "10.1198/016214502760047131",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.32",
+        "DOI": "10.1093/cercor/bhw040",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.33",
+        "DOI": "10.1016/j.celrep.2016.06.059",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.34",
+        "DOI": "10.1073/pnas.1319700110",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.35",
+        "DOI": "10.1038/nmeth.2930",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.36",
+        "DOI": "10.1038/nature14966",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.37",
+        "DOI": "10.1016/j.stem.2016.05.010",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.38",
+        "DOI": "10.1016/j.devcel.2010.02.012",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.39",
+        "DOI": "10.1016/j.cell.2016.07.043",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.40",
+        "DOI": "10.1126/science.aad7038",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.41",
+        "DOI": "10.1093/bioinformatics/btv325",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.42",
+        "DOI": "10.1126/science.aad2456",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.43",
+        "DOI": "10.1016/j.celrep.2012.08.003",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.44",
+        "DOI": "10.1073/pnas.1407388111",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.45",
+        "DOI": "10.1101/gr.110882.110",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.46",
+        "DOI": "10.1038/nmeth.2772",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.47",
+        "DOI": "10.1126/science.1247651",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.48",
+        "DOI": "10.1093/nar/gkw430",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.49",
+        "DOI": "10.1186/s13059-015-0866-z",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.50",
+        "DOI": "10.1038/nn.3980",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.51",
+        "DOI": "10.1093/bioinformatics/btv368",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.52",
+        "DOI": "10.1038/nmeth.2563",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.53",
+        "DOI": "10.1016/j.stem.2016.10.003",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.54",
+        "DOI": "10.1038/nmeth.2967",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.55",
+        "DOI": "10.1016/j.cell.2005.05.026",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.56",
+        "DOI": "10.1038/ncomms9687",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.57",
+        "DOI": "10.1016/j.cell.2015.04.044",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.58",
+        "DOI": "10.1016/j.molcel.2015.04.005",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.59",
+        "DOI": "10.1016/j.stem.2015.09.011",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.60",
+        "DOI": "10.1146/annurev.neuro.051508.135600",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.61",
+        "DOI": "10.1038/nature13920",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.62",
+        "DOI": "10.1016/j.cell.2016.09.027",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.63",
+        "DOI": "10.1186/1471-2105-9-559",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.64",
+        "DOI": "10.1126/science.1250212",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.65",
+        "DOI": "10.1016/j.devcel.2016.10.014",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.66",
+        "DOI": "10.15252/embr.201540946",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.67",
+        "DOI": "10.1016/j.celrep.2016.04.043",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.68",
+        "DOI": "10.1186/s13059-016-0932-1",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.69",
+        "DOI": "10.1016/j.stem.2015.07.002",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.70",
+        "DOI": "10.1016/j.cell.2016.06.011",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.71",
+        "DOI": "10.1038/nmeth.2804",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.72",
+        "DOI": "10.1007/s10479-011-0841-3",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.73",
+        "DOI": "10.1038/nrm2766",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.74",
+        "DOI": "10.1371/journal.pgen.1004126",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.75",
+        "DOI": "10.1038/nmeth.3370",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.76",
+        "DOI": "10.1016/j.celrep.2015.12.082",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.77",
+        "DOI": "10.1016/j.cell.2015.05.002",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.78",
+        "DOI": "10.1073/pnas.1408993111",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.79",
+        "DOI": "10.1101/gr.161034.113",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.80",
+        "DOI": "10.1126/science.aaf4238",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.81",
+        "DOI": "10.1186/s12859-016-1109-3",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.82",
+        "DOI": "10.1126/science.1243472",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.83",
+        "DOI": "10.1016/j.stem.2012.07.018",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.84",
+        "DOI": "10.1038/nbt.3154",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.85",
+        "DOI": "10.1038/nature09807",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.86",
+        "DOI": "10.1038/nature12593",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.87",
+        "DOI": "10.1016/j.cub.2016.07.048",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.88",
+        "DOI": "10.1038/ncomms11414",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.89",
+        "DOI": "10.1242/dev.050831",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.90",
+        "DOI": "10.1038/nature08113",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.91",
+        "DOI": "10.1016/j.stem.2016.03.012",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.92",
+        "DOI": "10.1093/bioinformatics/btv257",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.93",
+        "DOI": "10.1038/nature19348",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.94",
+        "DOI": "10.1073/pnas.1217322109",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.95",
+        "DOI": "10.1126/science.1254257",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.96",
+        "DOI": "10.1016/j.cell.2016.03.023",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.97",
+        "DOI": "10.1038/nmeth.2639",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.98",
+        "DOI": "10.1186/s13059-015-0805-z",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.99",
+        "DOI": "10.1038/nbt.2967",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.100",
+        "DOI": "10.1016/j.cell.2015.09.004",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.101",
+        "DOI": "10.1038/nbt.2282",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.102",
+        "DOI": "10.1242/dev.017178",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.103",
+        "DOI": "10.1038/nbt.3383",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.104",
+        "DOI": "10.1186/gb-2013-14-4-r31",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.105",
+        "DOI": "10.1038/nbt.3192",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.106",
+        "DOI": "10.1038/nbt.3569",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.107",
+        "DOI": "10.1038/nature13437",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.108",
+        "DOI": "10.1242/dev.123950",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.109",
+        "DOI": "10.1016/j.stem.2015.07.013",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.110",
+        "DOI": "10.1038/nmeth.3035",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.111",
+        "DOI": "10.1038/nrg3833",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.112",
+        "DOI": "10.1038/nmeth.1315",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.113",
+        "DOI": "10.1016/j.stem.2010.03.015",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.114",
+        "DOI": "10.1038/nprot.2009.236",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.115",
+        "DOI": "10.1038/nn.4216",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.116",
+        "DOI": "10.1038/nmeth.3629",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.117",
+        "DOI": "10.1016/j.devcel.2016.07.025",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.118",
+        "DOI": "10.1242/dev.017400",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.119",
+        "DOI": "10.1101/gr.190595.115",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.120",
+        "DOI": "10.1038/nbt.2859",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.121",
+        "DOI": "10.1038/nature13173",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.122",
+        "DOI": "10.1371/journal.pcbi.1004333",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.123",
+        "DOI": "10.1016/j.molcel.2015.05.005",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.124",
+        "DOI": "10.1186/s13059-016-0975-3",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.125",
+        "DOI": "10.1038/nmeth.2694",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.126",
+        "DOI": "10.1073/pnas.1602306113",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.127",
+        "DOI": "10.1093/bioinformatics/btv088",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.128",
+        "DOI": "10.1038/nature12364",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.129",
+        "DOI": "10.1038/nsmb.2660",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.130",
+        "DOI": "10.1038/nature20105",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.131",
+        "DOI": "10.1126/science.aaa1934",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "2018070213283940000_144.1.17.132",
+        "DOI": "10.1038/nature17997",
+        "doi-asserted-by": "publisher"
+      }
+    ],
+    "container-title": [
+      "Development"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1242/dev.133058",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1242/dev.133058",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          2
+        ]
+      ],
+      "date-time": "2018-07-02T21:16:50Z",
+      "timestamp": 1530566210000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          1
+        ]
+      ]
+    },
+    "references-count": 132,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            3
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1,
+            1
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "alternative-id": [
+      "10.1242/dev.133058"
+    ],
+    "URL": "http://dx.doi.org/10.1242/dev.133058",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "0950-1991",
+      "1477-9129"
+    ],
+    "issn-type": [
+      {
+        "value": "0950-1991",
+        "type": "print"
+      },
+      {
+        "value": "1477-9129",
+        "type": "electronic"
+      }
+    ]
+  }
+}

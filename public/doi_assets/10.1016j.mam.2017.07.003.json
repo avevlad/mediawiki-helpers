@@ -1,0 +1,261 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2020-04-01T10:50:52Z",
+      "timestamp": 1585738252601
+    },
+    "reference-count": 103,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2018-02-01T00:00:00Z",
+          "timestamp": 1517443200000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100006310",
+        "name": "Swedish Medical Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2016-02112"
+        ]
+      },
+      {
+        "DOI": "10.13039/501100005701",
+        "name": "Åhlén-stiftelsen",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "MA1/h16"
+        ]
+      },
+      {
+        "DOI": "10.13039/100008444",
+        "name": "Parkinsonfonden",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "910/16"
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004359",
+        "name": "Swedish Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "E0287001"
+        ]
+      },
+      {
+        "DOI": "10.13039/100008738",
+        "name": "Jeanssons Stiftelser",
+        "doi-asserted-by": "publisher",
+        "award": []
+      },
+      {
+        "name": "EU Joint Programme for Neurodegenerative Disease (JPND)",
+        "award": [
+          "529-2014-7500"
+        ]
+      },
+      {
+        "name": "Birgit Backmark's Donation",
+        "award": []
+      },
+      {
+        "name": "Ulla-Carin Lindquists stiftelse",
+        "award": []
+      },
+      {
+        "name": "NEURO Sweden, Magnus Bergvalls stiftelse",
+        "award": [
+          "2016-01531"
+        ]
+      },
+      {
+        "name": "Strategic Research Area Neuroscience (StratNeuro)",
+        "award": []
+      },
+      {
+        "name": "Svenska Sällskapet för Medicinska Forskning (SSMF)",
+        "award": []
+      },
+      {
+        "name": "Åke Wiberg Stiftelser",
+        "award": [
+          "M16-0015"
+        ]
+      },
+      {
+        "name": "Karolinska Institutet Foundation",
+        "award": [
+          "2016fobi47682"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Molecular Aspects of Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.mam.2017.07.003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2017-08-01T13:43:27Z",
+      "timestamp": 1501595007000
+    },
+    "page": "36-46",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 42,
+    "title": [
+      "Single-cell RNA sequencing: Technical advancements and biological applications"
+    ],
+    "prefix": "10.1016",
+    "volume": "59",
+    "author": [
+      {
+        "given": "Eva",
+        "family": "Hedlund",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Qiaolin",
+        "family": "Deng",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Molecular Aspects of Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0098299717300535?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0098299717300535?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2018-08-29T20:58:07Z",
+      "timestamp": 1535576287000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "references-count": 103,
+    "alternative-id": [
+      "S0098299717300535"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.mam.2017.07.003",
+    "relation": {},
+    "ISSN": [
+      "0098-2997"
+    ],
+    "issn-type": [
+      {
+        "value": "0098-2997",
+        "type": "print"
+      }
+    ],
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Single-cell RNA sequencing: Technical advancements and biological applications",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Molecular Aspects of Medicine",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.mam.2017.07.003",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -18,17 +18,17 @@ interface Props {}
 const Page: NextPage<Props> = (props) => {
   const [value, setValue] = React.useState(
     "10.1186/s13073-017-0467-4\n" +
-      // "10.1039/c9an90011\n" +
-      // "10.1038/s41423-019-0214-4\n" +
-      // "10.1242/dev.133058\n" +
-      // "10.1038/nprot.2017.149\n" +
-      // "10.1016/j.mam.2017.07.003\n" +
-      // "10.1038/s12276-018-0071-8\n" +
-      // "10.1016/j.molcel.2015.04.005 \n" +
-      // "10.1016/j.molcel.2018.10.020\n" +
-      // "10.1039/c8an01186a\n" +
-      // "10.3389/fonc.2013.00274\n" +
-      // "10.1016/j.bpj.2018.06.008\n" +
+      "10.1039/c9an90011\n" +
+      "10.1038/s41423-019-0214-4\n" +
+      "10.1242/dev.133058\n" +
+      "10.1038/nprot.2017.149\n" +
+      "10.1016/j.mam.2017.07.003\n" +
+      "10.1038/s12276-018-0071-8\n" +
+      "10.1016/j.molcel.2015.04.005 \n" +
+      "10.1016/j.molcel.2018.10.020\n" +
+      "10.1039/c8an01186a\n" +
+      "10.3389/fonc.2013.00274\n" +
+      "10.1016/j.bpj.2018.06.008\n" +
       "10.1371/journal.pone.0085270"
   );
 
@@ -129,6 +129,9 @@ const Page: NextPage<Props> = (props) => {
             <Box backgroundColor={"red"}>
               <Button
                 size={"compact"}
+                onClick={() => {
+                  handleSubmit();
+                }}
                 overrides={{
                   BaseButton: {
                     style: {

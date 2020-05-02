@@ -1,0 +1,1778 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2020-04-02T23:43:39Z",
+      "timestamp": 1585871019105
+    },
+    "reference-count": 149,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issue": "3",
+    "license": [
+      {
+        "URL": "http://rsc.li/journals-terms-of-use",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2019-09-14T00:00:00Z",
+          "timestamp": 1568419200000
+        },
+        "delay-in-days": 256,
+        "content-version": "am"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "21475073",
+          "21675096"
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004147",
+        "name": "Tsinghua University",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "QN20160002"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "rsc.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Analyst"
+    ],
+    "abstract": "<p>This review highlights the advances in single cell manipulation and biochemical analysis on microfluidics over the past three years.</p>",
+    "DOI": "10.1039/c8an01186a",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2018-09-16T02:25:04Z",
+      "timestamp": 1537064704000
+    },
+    "page": "766-781",
+    "update-policy": "http://dx.doi.org/10.1039/rsc_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "Recent advances in single cell manipulation and biochemical analysis on microfluidics"
+    ],
+    "prefix": "10.1039",
+    "volume": "144",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0003-1434-1626",
+        "authenticated-orcid": false,
+        "given": "Dan",
+        "family": "Gao",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Chemical Oncogenomics"
+          },
+          {
+            "name": "Key Laboratory of Chemical Biology"
+          },
+          {
+            "name": "Graduate School at Shenzhen"
+          },
+          {
+            "name": "Tsinghua University"
+          },
+          {
+            "name": "Shenzhen 518055"
+          }
+        ]
+      },
+      {
+        "given": "Feng",
+        "family": "Jin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Chemistry"
+          },
+          {
+            "name": "Stanford University"
+          },
+          {
+            "name": "Stanford"
+          },
+          {
+            "name": "USA"
+          }
+        ]
+      },
+      {
+        "given": "Min",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Chemical Oncogenomics"
+          },
+          {
+            "name": "Key Laboratory of Chemical Biology"
+          },
+          {
+            "name": "Graduate School at Shenzhen"
+          },
+          {
+            "name": "Tsinghua University"
+          },
+          {
+            "name": "Shenzhen 518055"
+          }
+        ]
+      },
+      {
+        "given": "Yuyang",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State Key Laboratory of Chemical Oncogenomics"
+          },
+          {
+            "name": "Key Laboratory of Chemical Biology"
+          },
+          {
+            "name": "Graduate School at Shenzhen"
+          },
+          {
+            "name": "Tsinghua University"
+          },
+          {
+            "name": "Shenzhen 518055"
+          }
+        ]
+      }
+    ],
+    "member": "292",
+    "published-online": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "C8AN01186A-(cit1)/*[position()=1]",
+        "author": "Spudich",
+        "volume": "262",
+        "first-page": "467",
+        "year": "1976",
+        "journal-title": "Nature",
+        "DOI": "10.1038/262467a0",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit2)/*[position()=1]",
+        "author": "Buettner",
+        "volume": "33",
+        "first-page": "155",
+        "year": "2015",
+        "journal-title": "Nat. Biotechnol.",
+        "DOI": "10.1038/nbt.3102",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit3)/*[position()=1]",
+        "author": "Junker",
+        "volume": "157",
+        "first-page": "8",
+        "year": "2014",
+        "journal-title": "Cell",
+        "DOI": "10.1016/j.cell.2014.02.010",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit4)/*[position()=1]",
+        "author": "Hamburger",
+        "volume": "197",
+        "first-page": "461",
+        "year": "1977",
+        "journal-title": "Science",
+        "DOI": "10.1126/science.560061",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit5)/*[position()=1]",
+        "author": "Bonnet",
+        "volume": "3",
+        "first-page": "730",
+        "year": "1997",
+        "journal-title": "Nat. Med.",
+        "DOI": "10.1038/nm0797-730",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit6)/*[position()=1]",
+        "author": "Meacham",
+        "volume": "501",
+        "first-page": "328",
+        "year": "2013",
+        "journal-title": "Nature",
+        "DOI": "10.1038/nature12624",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit7)/*[position()=1]",
+        "author": "Lindstrom",
+        "volume": "10",
+        "first-page": "3363",
+        "year": "2010",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/c0lc00150c",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit8)/*[position()=1]",
+        "author": "Krutzik",
+        "volume": "4",
+        "first-page": "132",
+        "year": "2008",
+        "journal-title": "Nat. Chem. Biol.",
+        "DOI": "10.1038/nchembio.2007.59",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit9)/*[position()=1]",
+        "author": "Krutzik",
+        "volume": "3",
+        "first-page": "361",
+        "year": "2006",
+        "journal-title": "Nat. Methods",
+        "DOI": "10.1038/nmeth872",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit10)/*[position()=1]",
+        "author": "El-Ali",
+        "volume": "442",
+        "first-page": "403",
+        "year": "2006",
+        "journal-title": "Nature",
+        "DOI": "10.1038/nature05063",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit11)/*[position()=1]",
+        "author": "Whitesides",
+        "volume": "442",
+        "first-page": "368",
+        "year": "2006",
+        "journal-title": "Nature",
+        "DOI": "10.1038/nature05058",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit12)/*[position()=1]",
+        "author": "He",
+        "volume": "53",
+        "first-page": "84",
+        "year": "2014",
+        "journal-title": "Trends Anal. Chem.",
+        "DOI": "10.1016/j.trac.2013.09.013",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit13)/*[position()=1]",
+        "author": "Wu",
+        "volume": "87",
+        "first-page": "19",
+        "year": "2017",
+        "journal-title": "Trends Anal. Chem.",
+        "DOI": "10.1016/j.trac.2016.11.009",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit14)/*[position()=1]",
+        "author": "Wu",
+        "volume": "50",
+        "first-page": "2762",
+        "year": "2014",
+        "journal-title": "Chem. Commun.",
+        "DOI": "10.1039/C3CC49771B",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit15)/*[position()=1]",
+        "author": "Park",
+        "volume": "11",
+        "first-page": "79",
+        "year": "2011",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C0LC00114G",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit16)/*[position()=1]",
+        "author": "Liu",
+        "volume": "82",
+        "first-page": "9418",
+        "year": "2010",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac102094r",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit17)/*[position()=1]",
+        "author": "Guan",
+        "volume": "86",
+        "first-page": "2789",
+        "year": "2014",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac500088m",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit18)/*[position()=1]",
+        "author": "Eric Brouzes",
+        "volume": "106",
+        "first-page": "14195",
+        "year": "2009",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.0903542106",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit19)/*[position()=1]",
+        "author": "Huebner",
+        "volume": "28",
+        "first-page": "1218",
+        "year": "2007",
+        "journal-title": "Chem. Commun.",
+        "DOI": "10.1039/b618570c",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit20)/*[position()=1]",
+        "author": "Wu",
+        "volume": "101",
+        "first-page": "12809",
+        "year": "2009",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.0405299101",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit21)/*[position()=1]",
+        "author": "Zhang",
+        "volume": "5",
+        "first-page": "671",
+        "year": "2008",
+        "journal-title": "J. R. Soc., Interface",
+        "DOI": "10.1098/rsif.2008.0052",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit22)/*[position()=1]",
+        "author": "Weng",
+        "volume": "17",
+        "first-page": "4077",
+        "year": "2017",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC00883J",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit23)/*[position()=1]",
+        "author": "Yang",
+        "volume": "266",
+        "first-page": "26",
+        "year": "2018",
+        "journal-title": "Sens. Actuators, B",
+        "DOI": "10.1016/j.snb.2018.03.091",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit24)/*[position()=1]",
+        "author": "Amann",
+        "volume": "6",
+        "first-page": "339",
+        "year": "2008",
+        "journal-title": "Nat. Rev. Microbiol.",
+        "DOI": "10.1038/nrmicro1888",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit25)/*[position()=1]",
+        "author": "Wu",
+        "volume": "108",
+        "first-page": "3809",
+        "year": "2011",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.1009043108",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit26)/*[position()=1]",
+        "author": "Wood",
+        "volume": "107",
+        "first-page": "10008",
+        "year": "2010",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.1004056107",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit27)/*[position()=1]",
+        "author": "Ma",
+        "volume": "17",
+        "first-page": "738",
+        "year": "2011",
+        "journal-title": "Nat. Med.",
+        "DOI": "10.1038/nm.2375",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit28)/*[position()=1]",
+        "author": "Lawson",
+        "volume": "526",
+        "first-page": "131",
+        "year": "2015",
+        "journal-title": "Nature",
+        "DOI": "10.1038/nature15260",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit29)/*[position()=1]",
+        "author": "Zhong",
+        "volume": "8",
+        "first-page": "68",
+        "year": "2008",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/B712116D",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit30)/*[position()=1]",
+        "author": "Tang",
+        "volume": "6",
+        "first-page": "377",
+        "year": "2009",
+        "journal-title": "Nat. Methods",
+        "DOI": "10.1038/nmeth.1315",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit31)/*[position()=1]",
+        "author": "Tang",
+        "volume": "6",
+        "first-page": "S6",
+        "year": "2011",
+        "journal-title": "Nat. Methods",
+        "DOI": "10.1038/nmeth.1557",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit32)/*[position()=1]",
+        "author": "Su",
+        "volume": "17",
+        "first-page": "1600267",
+        "year": "2017",
+        "journal-title": "Proteomics",
+        "DOI": "10.1002/pmic.201600267",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit33)/*[position()=1]",
+        "author": "Ning Gao",
+        "volume": "78",
+        "first-page": "3213",
+        "year": "2006",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac060278v",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit34)/*[position()=1]",
+        "author": "Gong",
+        "volume": "86",
+        "first-page": "3809",
+        "year": "2014",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac500882e",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit35)/*[position()=1]",
+        "author": "Passarelli",
+        "volume": "87",
+        "first-page": "6696",
+        "year": "2015",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b00842",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit36)/*[position()=1]",
+        "author": "Lin",
+        "volume": "99",
+        "first-page": "66",
+        "year": "2018",
+        "journal-title": "Trends Anal. Chem.",
+        "DOI": "10.1016/j.trac.2017.11.017",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit37)/*[position()=1]",
+        "author": "Armbrecht",
+        "volume": "89",
+        "first-page": "2",
+        "year": "2017",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b04255",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit38)/*[position()=1]",
+        "author": "Murphy",
+        "volume": "143",
+        "first-page": "60",
+        "year": "2017",
+        "journal-title": "Analyst",
+        "DOI": "10.1039/C7AN01346A",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit39)/*[position()=1]",
+        "author": "Hosic",
+        "volume": "88",
+        "first-page": "354",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b04077",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit40)/*[position()=1]",
+        "author": "Aharoni",
+        "volume": "12",
+        "first-page": "1281",
+        "year": "2005",
+        "journal-title": "Chem. Biol.",
+        "DOI": "10.1016/j.chembiol.2005.09.012",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit41)/*[position()=1]",
+        "author": "Suarez-Quian",
+        "volume": "26",
+        "first-page": "328",
+        "year": "1999",
+        "journal-title": "BioTechniques",
+        "DOI": "10.2144/99262rr03",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit42)/*[position()=1]",
+        "author": "Yin",
+        "volume": "23",
+        "first-page": "110",
+        "year": "2012",
+        "journal-title": "Curr. Opin. Biotechnol.",
+        "DOI": "10.1016/j.copbio.2011.11.002",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit43)/*[position()=1]",
+        "author": "Wang",
+        "volume": "402",
+        "first-page": "1065",
+        "year": "2012",
+        "journal-title": "Anal. Bioanal. Chem.",
+        "DOI": "10.1007/s00216-011-5535-9",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit44)/*[position()=1]",
+        "author": "Nguyen",
+        "volume": "9",
+        "first-page": "1553",
+        "year": "2018",
+        "journal-title": "Front. Immunol.",
+        "DOI": "10.3389/fimmu.2018.01553",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit45)/*[position()=1]",
+        "author": "Swennenhuis",
+        "volume": "15",
+        "first-page": "3039",
+        "year": "2015",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C5LC00304K",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit46)/*[position()=1]",
+        "author": "Huang",
+        "volume": "87",
+        "first-page": "12169",
+        "year": "2015",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b03031",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit47)/*[position()=1]",
+        "author": "Park",
+        "volume": "16",
+        "first-page": "3682",
+        "year": "2016",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C6LC00762G",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit48)/*[position()=1]",
+        "author": "Morimoto",
+        "volume": "10",
+        "first-page": "e0130418",
+        "year": "2015",
+        "journal-title": "PLoS One",
+        "DOI": "10.1371/journal.pone.0130418",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit49)/*[position()=1]",
+        "author": "Jimenez-Valdes",
+        "volume": "89",
+        "first-page": "5210",
+        "year": "2017",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b04485",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit50)/*[position()=1]",
+        "author": "Afrimzon",
+        "volume": "16",
+        "first-page": "1047",
+        "year": "2016",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C6LC00014B",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "C8AN01186A-(cit51)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1002/rcm.7628",
+        "volume": "30",
+        "author": "Yang",
+        "year": "2016",
+        "journal-title": "Rapid Commun. Mass Spectrom."
+      },
+      {
+        "key": "C8AN01186A-(cit52)/*[position()=1]",
+        "author": "Korenaga",
+        "volume": "162",
+        "first-page": "474",
+        "year": "2017",
+        "journal-title": "Talanta",
+        "DOI": "10.1016/j.talanta.2016.10.055",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit53)/*[position()=1]",
+        "author": "Schiele",
+        "volume": "2",
+        "first-page": "032001",
+        "year": "2010",
+        "journal-title": "Biofabrication",
+        "DOI": "10.1088/1758-5082/2/3/032001",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit54)/*[position()=1]",
+        "author": "Kim",
+        "volume": "16",
+        "first-page": "139",
+        "year": "2017",
+        "journal-title": "Nat. Mater.",
+        "DOI": "10.1038/nmat4747",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit55)/*[position()=1]",
+        "author": "Yang",
+        "volume": "17",
+        "first-page": "4243",
+        "year": "2017",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC01101F",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit56)/*[position()=1]",
+        "author": "Jiang",
+        "volume": "102",
+        "first-page": "975",
+        "year": "2005",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.0408954102",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit57)/*[position()=1]",
+        "author": "Thery",
+        "volume": "7",
+        "first-page": "947",
+        "year": "2005",
+        "journal-title": "Nat. Cell Biol.",
+        "DOI": "10.1038/ncb1307",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit58)/*[position()=1]",
+        "author": "Custodio",
+        "volume": "30",
+        "first-page": "10066",
+        "year": "2014",
+        "journal-title": "Langmuir",
+        "DOI": "10.1021/la502688h",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit59)/*[position()=1]",
+        "author": "Ahmed",
+        "volume": "56",
+        "first-page": "10681",
+        "year": "2017",
+        "journal-title": "Angew. Chem., Int. Ed.",
+        "DOI": "10.1002/anie.201702675",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit60)/*[position()=1]",
+        "author": "Shin",
+        "volume": "53",
+        "first-page": "8221",
+        "year": "2014",
+        "journal-title": "Angew. Chem., Int. Ed.",
+        "DOI": "10.1002/anie.201404323",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit61)/*[position()=1]",
+        "author": "Okushima",
+        "volume": "20",
+        "first-page": "9905",
+        "year": "2004",
+        "journal-title": "Langmuir",
+        "DOI": "10.1021/la0480336",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit62)/*[position()=1]",
+        "author": "Teh",
+        "volume": "8",
+        "first-page": "198",
+        "year": "2008",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/b715524g",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit63)/*[position()=1]",
+        "author": "Lagus",
+        "volume": "46",
+        "first-page": "114005",
+        "year": "2013",
+        "journal-title": "J. Phys. D: Appl. Phys.",
+        "DOI": "10.1088/0022-3727/46/11/114005",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit64)/*[position()=1]",
+        "author": "Yu",
+        "volume": "2",
+        "first-page": "626",
+        "year": "2017",
+        "journal-title": "ACS Sens.",
+        "DOI": "10.1021/acssensors.6b00731",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit65)/*[position()=1]",
+        "author": "Kumar",
+        "volume": "15",
+        "first-page": "1852",
+        "year": "2015",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C4LC01469C",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit66)/*[position()=1]",
+        "author": "Li",
+        "volume": "28",
+        "first-page": "3543",
+        "year": "2016",
+        "journal-title": "Adv. Mater.",
+        "DOI": "10.1002/adma.201600247",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit67)/*[position()=1]",
+        "author": "Li",
+        "volume": "90",
+        "first-page": "2570",
+        "year": "2018",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.7b04040",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit68)/*[position()=1]",
+        "author": "Li",
+        "volume": "27",
+        "first-page": "1606045",
+        "year": "2017",
+        "journal-title": "Adv. Funct. Mater.",
+        "DOI": "10.1002/adfm.201606045",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit69)/*[position()=1]",
+        "author": "Guo",
+        "volume": "90",
+        "first-page": "5810",
+        "year": "2018",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.8b00343",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit70)/*[position()=1]",
+        "author": "Li",
+        "volume": "90",
+        "first-page": "5430",
+        "year": "2018",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.8b00661",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit71)/*[position()=1]",
+        "author": "Zhang",
+        "volume": "16",
+        "first-page": "4742",
+        "year": "2016",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C6LC01241H",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit72)/*[position()=1]",
+        "author": "Chen",
+        "volume": "15",
+        "first-page": "1072",
+        "year": "2015",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C4LC01176G",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit73)/*[position()=1]",
+        "author": "Sauzade",
+        "volume": "17",
+        "first-page": "2186",
+        "year": "2017",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC00283A",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit74)/*[position()=1]",
+        "author": "Jin",
+        "volume": "56",
+        "first-page": "3822",
+        "year": "2017",
+        "journal-title": "Angew. Chem., Int. Ed.",
+        "DOI": "10.1002/anie.201700695",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit75)/*[position()=1]",
+        "author": "Casabella",
+        "volume": "141",
+        "first-page": "689",
+        "year": "2016",
+        "journal-title": "Analyst",
+        "DOI": "10.1039/C5AN01851J",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit76)/*[position()=1]",
+        "author": "Stetciura",
+        "volume": "140",
+        "first-page": "4981",
+        "year": "2015",
+        "journal-title": "Analyst",
+        "DOI": "10.1039/C5AN00392J",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit77)/*[position()=1]",
+        "author": "Li",
+        "volume": "88",
+        "first-page": "930",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b03664",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit78)/*[position()=1]",
+        "author": "Li",
+        "volume": "17",
+        "first-page": "3129",
+        "year": "2017",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC00546F",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit79)/*[position()=1]",
+        "author": "Liu",
+        "volume": "255",
+        "first-page": "2392",
+        "year": "2018",
+        "journal-title": "Sens. Actuators, B",
+        "DOI": "10.1016/j.snb.2017.08.163",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit80)/*[position()=1]",
+        "author": "Zhao",
+        "volume": "111",
+        "first-page": "138",
+        "year": "2018",
+        "journal-title": "Biosens. Bioelectron.",
+        "DOI": "10.1016/j.bios.2018.04.015",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit81)/*[position()=1]",
+        "author": "Guo",
+        "volume": "113",
+        "first-page": "1522",
+        "year": "2016",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.1524813113",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit82)/*[position()=1]",
+        "author": "Collins",
+        "volume": "6",
+        "first-page": "8686",
+        "year": "2015",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/ncomms9686",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit83)/*[position()=1]",
+        "author": "Fan",
+        "volume": "18",
+        "first-page": "1151",
+        "year": "2018",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC01333G",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit84)/*[position()=1]",
+        "author": "Wei",
+        "volume": "11",
+        "first-page": "410",
+        "year": "2014",
+        "journal-title": "Nat. Methods",
+        "DOI": "10.1038/nmeth.2878",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit85)/*[position()=1]",
+        "author": "Surasi",
+        "volume": "42",
+        "first-page": "5",
+        "year": "2014",
+        "journal-title": "J. Nucl. Med. Technol.",
+        "DOI": "10.2967/jnmt.113.132621",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit86)/*[position()=1]",
+        "author": "Gallina",
+        "volume": "89",
+        "first-page": "6472",
+        "year": "2017",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.7b00414",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit87)/*[position()=1]",
+        "author": "Zenobi",
+        "volume": "342",
+        "first-page": "1243259",
+        "year": "2013",
+        "journal-title": "Science",
+        "DOI": "10.1126/science.1243259",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit88)/*[position()=1]",
+        "author": "Li",
+        "volume": "88",
+        "first-page": "8610",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b01775",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit89)/*[position()=1]",
+        "author": "Oedit",
+        "volume": "31",
+        "first-page": "79",
+        "year": "2015",
+        "journal-title": "Curr. Opin. Biotechnol.",
+        "DOI": "10.1016/j.copbio.2014.08.009",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit90)/*[position()=1]",
+        "author": "Lin",
+        "volume": "5",
+        "first-page": "337",
+        "year": "2015",
+        "journal-title": "J. Pharm. Anal.",
+        "DOI": "10.1016/j.jpha.2015.09.003",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit91)/*[position()=1]",
+        "author": "Domon",
+        "volume": "312",
+        "first-page": "212",
+        "year": "2006",
+        "journal-title": "Science",
+        "DOI": "10.1126/science.1124619",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit92)/*[position()=1]",
+        "author": "Theberge",
+        "volume": "49",
+        "first-page": "5846",
+        "year": "2010",
+        "journal-title": "Angew. Chem., Int. Ed.",
+        "DOI": "10.1002/anie.200906653",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit93)/*[position()=1]",
+        "author": "Bandu",
+        "volume": "37",
+        "first-page": "107",
+        "year": "2018",
+        "journal-title": "Mass Spectrom. Rev.",
+        "DOI": "10.1002/mas.21510",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit94)/*[position()=1]",
+        "author": "Pavlovich",
+        "volume": "37",
+        "first-page": "171",
+        "year": "2018",
+        "journal-title": "Mass Spectrom. Rev.",
+        "DOI": "10.1002/mas.21509",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit95)/*[position()=1]",
+        "author": "Zhang",
+        "volume": "6",
+        "first-page": "24730",
+        "year": "2016",
+        "journal-title": "Sci. Rep.",
+        "DOI": "10.1038/srep24730",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit96)/*[position()=1]",
+        "author": "Lin",
+        "first-page": "1",
+        "year": "2018",
+        "journal-title": "Mass Spectrom. Rev."
+      },
+      {
+        "key": "C8AN01186A-(cit97)/*[position()=1]",
+        "author": "Tycova",
+        "volume": "38",
+        "first-page": "115",
+        "year": "2017",
+        "journal-title": "Electrophoresis",
+        "DOI": "10.1002/elps.201600366",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit98)/*[position()=1]",
+        "author": "Ibanez",
+        "volume": "110",
+        "first-page": "8790",
+        "year": "2013",
+        "journal-title": "Proc. Natl. Acad. Sci. U. S. A.",
+        "DOI": "10.1073/pnas.1209302110",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit99)/*[position()=1]",
+        "author": "Neupert",
+        "volume": "19",
+        "first-page": "1010",
+        "year": "2012",
+        "journal-title": "Chem. Biol.",
+        "DOI": "10.1016/j.chembiol.2012.05.023",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit100)/*[position()=1]",
+        "author": "Xie",
+        "volume": "87",
+        "first-page": "7052",
+        "year": "2015",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b00010",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit101)/*[position()=1]",
+        "author": "Huang",
+        "volume": "88",
+        "first-page": "12196",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b03170",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit102)/*[position()=1]",
+        "author": "Jing",
+        "volume": "88",
+        "first-page": "11750",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b03370",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit103)/*[position()=1]",
+        "author": "Becker",
+        "volume": "38",
+        "first-page": "1969",
+        "year": "2009",
+        "journal-title": "Chem. Soc. Rev.",
+        "DOI": "10.1039/b618635c",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit104)/*[position()=1]",
+        "author": "Unceta",
+        "volume": "154",
+        "first-page": "255",
+        "year": "2016",
+        "journal-title": "Talanta",
+        "DOI": "10.1016/j.talanta.2016.03.079",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit105)/*[position()=1]",
+        "author": "Wei",
+        "volume": "88",
+        "first-page": "12437",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b03810",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit106)/*[position()=1]",
+        "author": "Flores",
+        "volume": "28",
+        "first-page": "143",
+        "year": "2015",
+        "journal-title": "Biometals",
+        "DOI": "10.1007/s10534-014-9810-z",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit107)/*[position()=1]",
+        "author": "Meng",
+        "volume": "64",
+        "first-page": "78",
+        "year": "2015",
+        "journal-title": "Biomaterials",
+        "DOI": "10.1016/j.biomaterials.2015.06.030",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit108)/*[position()=1]",
+        "author": "Lee",
+        "volume": "9",
+        "first-page": "365",
+        "year": "2017",
+        "journal-title": "Metallomics",
+        "DOI": "10.1039/C6MT00231E",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit109)/*[position()=1]",
+        "author": "Yu",
+        "volume": "179",
+        "first-page": "279",
+        "year": "2018",
+        "journal-title": "Talanta",
+        "DOI": "10.1016/j.talanta.2017.11.013",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit110)/*[position()=1]",
+        "author": "Wang",
+        "volume": "89",
+        "first-page": "4931",
+        "year": "2017",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.7b00134",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit111)/*[position()=1]",
+        "author": "Soldà",
+        "volume": "2",
+        "first-page": "1310",
+        "year": "2017",
+        "journal-title": "ACS Sens.",
+        "DOI": "10.1021/acssensors.7b00324",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit112)/*[position()=1]",
+        "author": "Hong",
+        "volume": "107",
+        "first-page": "103",
+        "year": "2018",
+        "journal-title": "Biosens. Bioelectron.",
+        "DOI": "10.1016/j.bios.2018.01.067",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit113)/*[position()=1]",
+        "author": "Tian",
+        "volume": "251",
+        "first-page": "440",
+        "year": "2017",
+        "journal-title": "Sens. Actuators, B",
+        "DOI": "10.1016/j.snb.2017.05.082",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit114)/*[position()=1]",
+        "author": "Sadeghian",
+        "volume": "1",
+        "first-page": "921",
+        "year": "2016",
+        "journal-title": "ACS Sens.",
+        "DOI": "10.1021/acssensors.6b00325",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit115)/*[position()=1]",
+        "author": "Safaei",
+        "volume": "7",
+        "first-page": "14165",
+        "year": "2015",
+        "journal-title": "ACS Appl. Mater. Interfaces",
+        "DOI": "10.1021/acsami.5b02404",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit116)/*[position()=1]",
+        "author": "Curello",
+        "volume": "33",
+        "first-page": "1448",
+        "year": "1987",
+        "journal-title": "Clin. Chem."
+      },
+      {
+        "key": "C8AN01186A-(cit117)/*[position()=1]",
+        "author": "Shi",
+        "volume": "179",
+        "first-page": "466",
+        "year": "2018",
+        "journal-title": "Talanta",
+        "DOI": "10.1016/j.talanta.2017.11.044",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit118)/*[position()=1]",
+        "author": "Shah",
+        "volume": "8",
+        "first-page": "5804",
+        "year": "2016",
+        "journal-title": "ACS Appl. Mater. Interfaces",
+        "DOI": "10.1021/acsami.5b11409",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit119)/*[position()=1]",
+        "author": "Xie",
+        "volume": "241",
+        "first-page": "672",
+        "year": "2017",
+        "journal-title": "Sens. Actuators, B",
+        "DOI": "10.1016/j.snb.2016.09.182",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit120)/*[position()=1]",
+        "author": "Wigstrom",
+        "volume": "88",
+        "first-page": "2080",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b03316",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit121)/*[position()=1]",
+        "author": "Geng",
+        "volume": "14",
+        "first-page": "203",
+        "year": "2015",
+        "journal-title": "Forensic Sci. Int.: Genet.",
+        "DOI": "10.1016/j.fsigen.2014.10.007",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit122)/*[position()=1]",
+        "author": "Kim",
+        "volume": "90",
+        "first-page": "1273",
+        "year": "2018",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.7b04050",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit123)/*[position()=1]",
+        "author": "Tian",
+        "volume": "88",
+        "first-page": "11384",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b01225",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit124)/*[position()=1]",
+        "author": "Warburg",
+        "volume": "123",
+        "first-page": "309",
+        "year": "1956",
+        "journal-title": "Science",
+        "DOI": "10.1126/science.123.3191.309",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit125)/*[position()=1]",
+        "author": "Mongersun",
+        "volume": "88",
+        "first-page": "3257",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b04681",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit126)/*[position()=1]",
+        "author": "Qu",
+        "volume": "85",
+        "first-page": "9549",
+        "year": "2013",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac401644n",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit127)/*[position()=1]",
+        "author": "Chen",
+        "volume": "84",
+        "first-page": "4687",
+        "year": "2012",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/ac300255n",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit128)/*[position()=1]",
+        "author": "Von Eynatten",
+        "volume": "18",
+        "first-page": "1169",
+        "year": "2001",
+        "journal-title": "Int. J. Oncol."
+      },
+      {
+        "key": "C8AN01186A-(cit129)/*[position()=1]",
+        "author": "Shen",
+        "volume": "90",
+        "first-page": "4478",
+        "year": "2018",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.7b04798",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit130)/*[position()=1]",
+        "author": "Crouch",
+        "volume": "45",
+        "first-page": "1604",
+        "year": "2012",
+        "journal-title": "Acc. Chem. Res.",
+        "DOI": "10.1021/ar300074t",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit131)/*[position()=1]",
+        "author": "Li",
+        "volume": "89",
+        "first-page": "4559",
+        "year": "2017",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b05045",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit132)/*[position()=1]",
+        "author": "Majewski",
+        "volume": "17",
+        "first-page": "304",
+        "year": "2011",
+        "journal-title": "Nat. Med.",
+        "DOI": "10.1038/nm.2311",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit133)/*[position()=1]",
+        "author": "Yang",
+        "volume": "88",
+        "first-page": "6672",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b03419",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit134)/*[position()=1]",
+        "author": "Lin",
+        "volume": "18",
+        "first-page": "371",
+        "year": "2018",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC01008G",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit135)/*[position()=1]",
+        "author": "Baccelli",
+        "volume": "31",
+        "first-page": "539",
+        "year": "2013",
+        "journal-title": "Nat. Biotechnol.",
+        "DOI": "10.1038/nbt.2576",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit136)/*[position()=1]",
+        "author": "Zhang",
+        "volume": "87",
+        "first-page": "9761",
+        "year": "2015",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.5b01901",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit137)/*[position()=1]",
+        "author": "Chattopadhyay",
+        "volume": "15",
+        "first-page": "128",
+        "year": "2014",
+        "journal-title": "Nat. Immunol.",
+        "DOI": "10.1038/ni.2796",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit138)/*[position()=1]",
+        "author": "Dranoff",
+        "volume": "4",
+        "first-page": "11",
+        "year": "2004",
+        "journal-title": "Nat. Rev. Cancer",
+        "DOI": "10.1038/nrc1252",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit139)/*[position()=1]",
+        "author": "George",
+        "volume": "88",
+        "first-page": "10309",
+        "year": "2016",
+        "journal-title": "Anal. Chem.",
+        "DOI": "10.1021/acs.analchem.6b03214",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit140)/*[position()=1]",
+        "author": "Ng",
+        "volume": "81",
+        "first-page": "408",
+        "year": "2016",
+        "journal-title": "Biosens. Bioelectron.",
+        "DOI": "10.1016/j.bios.2016.03.002",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit141)/*[position()=1]",
+        "author": "Burrell",
+        "volume": "501",
+        "first-page": "338",
+        "year": "2013",
+        "journal-title": "Nature",
+        "DOI": "10.1038/nature12625",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit142)/*[position()=1]",
+        "author": "Weaver",
+        "volume": "25",
+        "first-page": "114",
+        "year": "2014",
+        "journal-title": "Curr. Opin. Biotechnol.",
+        "DOI": "10.1016/j.copbio.2013.09.005",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit143)/*[position()=1]",
+        "author": "Armbrecht",
+        "volume": "17",
+        "first-page": "2933",
+        "year": "2017",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C7LC00505A",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit144)/*[position()=1]",
+        "author": "Pang",
+        "volume": "16",
+        "first-page": "4612",
+        "year": "2016",
+        "journal-title": "Lab Chip",
+        "DOI": "10.1039/C6LC01000H",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit145)/*[position()=1]",
+        "author": "Li",
+        "volume": "225",
+        "first-page": "563",
+        "year": "2016",
+        "journal-title": "Sens. Actuators, B",
+        "DOI": "10.1016/j.snb.2015.11.097",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit146)/*[position()=1]",
+        "author": "Klein",
+        "volume": "161",
+        "first-page": "1187",
+        "year": "2015",
+        "journal-title": "Cell",
+        "DOI": "10.1016/j.cell.2015.04.044",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit147)/*[position()=1]",
+        "author": "Macosko",
+        "volume": "161",
+        "first-page": "1202",
+        "year": "2015",
+        "journal-title": "Cell",
+        "DOI": "10.1016/j.cell.2015.05.002",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit148)/*[position()=1]",
+        "author": "Zilionis",
+        "volume": "12",
+        "first-page": "44",
+        "year": "2017",
+        "journal-title": "Nat. Protoc.",
+        "DOI": "10.1038/nprot.2016.154",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "C8AN01186A-(cit149)/*[position()=1]",
+        "author": "Lan",
+        "volume": "35",
+        "first-page": "640",
+        "year": "2017",
+        "journal-title": "Nat. Biotechnol.",
+        "DOI": "10.1038/nbt.3880",
+        "doi-asserted-by": "crossref"
+      }
+    ],
+    "container-title": [
+      "The Analyst"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://pubs.rsc.org/en/content/articlepdf/2019/AN/C8AN01186A",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2019-02-20T19:18:38Z",
+      "timestamp": 1550690318000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "references-count": 149,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            28
+          ]
+        ]
+      },
+      "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.1039/c8an01186a",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "0003-2654",
+      "1364-5528"
+    ],
+    "issn-type": [
+      {
+        "value": "0003-2654",
+        "type": "print"
+      },
+      {
+        "value": "1364-5528",
+        "type": "electronic"
+      }
+    ],
+    "assertion": [
+      {
+        "value": "This document is Similarity Check deposited",
+        "name": "similarity_check",
+        "explanation": {
+          "URL": "https://www.crossref.org/services/similarity-check/"
+        },
+        "group": {
+          "name": "similarity_check",
+          "label": "SIMILARITY CHECK"
+        }
+      },
+      {
+        "value": "Dan Gao (ORCID)",
+        "URL": "http://orcid.org/0000-0003-1434-1626",
+        "name": "identifier",
+        "group": {
+          "name": "author_identifiers",
+          "label": "IDENTIFIERS"
+        }
+      },
+      {
+        "value": "Single-blind",
+        "order": 2,
+        "name": "peer_review_method",
+        "group": {
+          "name": "peer_review_method",
+          "label": "PEER REVIEW METHOD"
+        }
+      },
+      {
+        "value": "Received 27 June 2018; Accepted 14 September 2018;  Accepted Manuscript published 14 September 2018;  Advance Article published 9 October 2018;  Version of Record published 28 January 2019",
+        "order": 1,
+        "name": "history",
+        "group": {
+          "name": "publication_history",
+          "label": "PUBLICATION HISTORY"
+        }
+      }
+    ]
+  }
+}

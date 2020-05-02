@@ -1,0 +1,1334 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2020-04-29T19:06:19Z",
+      "timestamp": 1588187179277
+    },
+    "reference-count": 103,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "8",
+    "license": [
+      {
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2018-08-01T00:00:00Z",
+          "timestamp": 1533081600000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Exp Mol Med"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1038/s12276-018-0071-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          7
+        ]
+      ],
+      "date-time": "2018-08-07T05:33:03Z",
+      "timestamp": 1533619983000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 174,
+    "title": [
+      "Single-cell RNA sequencing technologies and bioinformatics pipelines"
+    ],
+    "prefix": "10.1038",
+    "volume": "50",
+    "author": [
+      {
+        "given": "Byungjin",
+        "family": "Hwang",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Ji Hyun",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Duhee",
+        "family": "Bang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "71_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "542",
+        "DOI": "10.1126/science.1180794",
+        "volume": "327",
+        "author": "L Li",
+        "year": "2010",
+        "unstructured": "Li, L. & Clevers, H. Coexistence of quiescent and active adult stem cells in mammals. Science 327, 542–545 (2010).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "3853",
+        "DOI": "10.1242/dev.035139",
+        "volume": "136",
+        "author": "S Huang",
+        "year": "2009",
+        "unstructured": "Huang, S. Non-genetic heterogeneity of cells in development: more than just noise. Development 136, 3853–3862 (2009).",
+        "journal-title": "Development"
+      },
+      {
+        "key": "71_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "363",
+        "DOI": "10.1038/nature13437",
+        "volume": "510",
+        "author": "AK Shalek",
+        "year": "2014",
+        "unstructured": "Shalek, A. K. et al. Single cell RNA Seq reveals dynamic paracrine control of cellular variation. Nature 510, 363–369 (2014).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "167",
+        "DOI": "10.1038/nature09326",
+        "volume": "467",
+        "author": "A Eldar",
+        "year": "2010",
+        "unstructured": "Eldar, A. & Elowitz, M. B. Functional roles for noise in genetic circuits. Nature 467, 167–173 (2010).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "526",
+        "DOI": "10.1126/science.1140818",
+        "volume": "317",
+        "author": "H Maamar",
+        "year": "2007",
+        "unstructured": "Maamar, H., Raj, A. & Dubnau, D. Noise in gene expression determines cell fate in Bacillus subtilis. Science 317, 526–529 (2007).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "3010",
+        "DOI": "10.1073/pnas.89.7.3010",
+        "volume": "89",
+        "author": "J Eberwine",
+        "year": "1992",
+        "unstructured": "Eberwine, J. et al. Analysis of gene expression in single live neurons. Proc. Natl. Acad. Sci. USA 89, 3010–3014 (1992).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR7",
+        "first-page": "17",
+        "volume": "2",
+        "author": "G Brady",
+        "year": "1990",
+        "unstructured": "Brady, G., Barbara, M. & Iscove, N. N. Representative in vitro cDNA amplification from individual hemopoietic cells and colonies. Methods Mol. Cell Biol. 2, 17–25 (1990).",
+        "journal-title": "Methods Mol. Cell Biol."
+      },
+      {
+        "key": "71_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "387",
+        "DOI": "10.1038/nbt0402-387",
+        "volume": "20",
+        "author": "CA Klein",
+        "year": "2002",
+        "unstructured": "Klein, C. A. et al. Combined transcriptome and genome analysis of single micrometastatic cells. Nat. Biotechnol. 20, 387–392 (2002).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e42",
+        "DOI": "10.1093/nar/gkl050",
+        "volume": "34",
+        "author": "K Kurimoto",
+        "year": "2006",
+        "unstructured": "Kurimoto, K. et al. An improved single-cell cDNA amplification method for efficient high-density oligonucleotide microarray analysis. Nucleic Acids Res. 34, e42–e42 (2006).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "71_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "804",
+        "DOI": "10.1101/gr.100594.109",
+        "volume": "20",
+        "author": "D Xie",
+        "year": "2010",
+        "unstructured": "Xie, D. et al. Rewirable gene regulatory networks in the preimplantation embryonic development of three mammalian species. Genome Res. 20, 804–815 (2010).",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "71_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1016/S0896-6273(03)00229-0",
+        "volume": "38",
+        "author": "I Tietjen",
+        "year": "2003",
+        "unstructured": "Tietjen, I. et al. Single-cell transcriptional analysis of neuronal progenitors. Neuron 38, 161–175 (2003).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "71_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1038/nmeth.1315",
+        "volume": "6",
+        "author": "F Tang",
+        "year": "2009",
+        "unstructured": "Tang, F. et al. mRNA-Seq whole-transcriptome analysis of a single cell. Nat. Methods 6, 377–382 (2009).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "431",
+        "DOI": "10.1038/nature22794",
+        "volume": "546",
+        "author": "SM Shaffer",
+        "year": "2017",
+        "unstructured": "Shaffer, S. M. et al. Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance. Nature 546, 431–435 (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "236",
+        "DOI": "10.1038/nature12172",
+        "volume": "498",
+        "author": "AK Shalek",
+        "year": "2013",
+        "unstructured": "Shalek, A. K. et al. Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells. Nature 498, 236–240 (2013).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1016/j.cell.2016.08.009",
+        "volume": "167",
+        "author": "S Petropoulos",
+        "year": "2016",
+        "unstructured": "Petropoulos, S. et al. Single-cell RNA-Seq reveals lineage and X chromosome dynamics in human preimplantation embryos. Cell 167, 285 (2016).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1038/nbt.2859",
+        "volume": "32",
+        "author": "C Trapnell",
+        "year": "2014",
+        "unstructured": "Trapnell, C. et al. Pseudo-temporal ordering of individual cells reveals dynamics and regulators of cell fate decisions. Nat. Biotechnol. 32, 381–386 (2014).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "329",
+        "DOI": "10.1038/nmeth.3800",
+        "volume": "13",
+        "author": "MJT Stubbington",
+        "year": "2016",
+        "unstructured": "Stubbington, M. J. T. et al. T cell fate and clonality inference from single cell transcriptomes. Nat. Methods 13, 329–332 (2016).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "538",
+        "DOI": "10.1128/MMBR.68.3.538-559.2004",
+        "volume": "68",
+        "author": "BF Brehm-Stecher",
+        "year": "2004",
+        "unstructured": "Brehm-Stecher, B. F. & Johnson, E. A. Single-cell microbiology: tools, technologies, and applications. Microbiol. Mol. Biol. Rev. 68, 538–559 (2004).",
+        "journal-title": "Microbiol. Mol. Biol. Rev."
+      },
+      {
+        "key": "71_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "967",
+        "DOI": "10.1038/cr.2017.82",
+        "volume": "27",
+        "author": "F Guo",
+        "year": "2017",
+        "unstructured": "Guo, F. et al. Single-cell multi-omics sequencing of mouse early embryos and embryonic stem cells. Cell Res. 27, 967–988 (2017).",
+        "journal-title": "Cell Res."
+      },
+      {
+        "key": "71_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1934",
+        "DOI": "10.1073/pnas.69.7.1934",
+        "volume": "69",
+        "author": "MH Julius",
+        "year": "1972",
+        "unstructured": "Julius, M. H., Masuda, T. & Herzenberg, L. A. Demonstration that antigen-binding cells are precursors of antibody-producing cells after purification with a fluorescence-activated cell sorter. Proc. Natl. Acad. Sci. USA 69, 1934–1938 (1972).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR21",
+        "author": "S Nichterwitz",
+        "volume": "7",
+        "year": "2016",
+        "unstructured": "Nichterwitz, S. et al. Laser capture microscopy coupled with Smart-seq2 for precise spatial transcriptomic profiling. Nat. Commun. 7, 12139 (2016).",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/ncomms12139",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "71_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "368",
+        "DOI": "10.1038/nature05058",
+        "volume": "442",
+        "author": "GM Whitesides",
+        "year": "2006",
+        "unstructured": "Whitesides, G. M. The origins and the future of microfluidics. Nature 442, 368–373 (2006).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "3758",
+        "DOI": "10.1021/ac0264574",
+        "volume": "75",
+        "author": "SC Jacobson",
+        "year": "2003",
+        "unstructured": "Jacobson, S. C., Culbertson, C. T. & Ramsey, J. M. High-efficiency, two-dimensional separations of protein digests on microfluidic devices. Anal. Chem. 75, 3758–3764 (2003).",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "71_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "2995",
+        "DOI": "10.1021/ac991471a",
+        "volume": "72",
+        "author": "J Khandurina",
+        "year": "2000",
+        "unstructured": "Khandurina, J. et al. Integrated system for rapid PCR-based DNA analysis in microfluidic devices. Anal. Chem. 72, 2995–3000 (2000).",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "71_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "565",
+        "DOI": "10.1021/ac001026b",
+        "volume": "73",
+        "author": "ET Lagally",
+        "year": "2001",
+        "unstructured": "Lagally, E. T., Medintz, I. & Mathies, R. A. Single-molecule DNA amplification and analysis in an integrated microfluidic device. Anal. Chem. 73, 565–570 (2001).",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "71_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "580",
+        "DOI": "10.1126/science.1076996",
+        "volume": "298",
+        "author": "T Thorsen",
+        "year": "2002",
+        "unstructured": "Thorsen, T., Maerkl, S. J. & Quake, S. R. Microfluidic large-scale integration. Science 298, 580–584 (2002).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "2961",
+        "DOI": "10.1073/pnas.061014198",
+        "volume": "98",
+        "author": "DT Chiu",
+        "year": "2001",
+        "unstructured": "Chiu, D. T., Pezzoli, E., Wu, H., Stroock, A. D. & Whitesides, G. M. Using three-dimensional microfluidic networks for solving computationally hard problems. Proc. Natl. Acad. Sci. USA 98, 2961–2966 (2001).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1126/science.1109173",
+        "volume": "309",
+        "author": "FK Balagaddé",
+        "year": "2005",
+        "unstructured": "Balagaddé, F. K., You, L., Hansen, C. L., Arnold, F. H. & Quake, S. R. Long-term monitoring of bacteria undergoing programmed population control in a microchemostat. Science 309, 137–140 (2005).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "3084",
+        "DOI": "10.1021/ac0519460",
+        "volume": "78",
+        "author": "JS Marcus",
+        "year": "2006",
+        "unstructured": "Marcus, J. S., Anderson, W. F. & Quake, S. R. Microfluidic single-cell mRNA isolation and analysis. Anal. Chem. 78, 3084–3089 (2006).",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "71_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "4163",
+        "DOI": "10.1103/PhysRevLett.86.4163",
+        "volume": "86",
+        "author": "T Thorsen",
+        "year": "2001",
+        "unstructured": "Thorsen, T., Roberts, R. W., Arnold, F. H. & Quake, S. R. Dynamic pattern formation in a vesicle-generating microfluidic device. Phys. Rev. Lett. 86, 4163–4166 (2001).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "71_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "537",
+        "DOI": "10.1126/science.1109164",
+        "volume": "308",
+        "author": "AS Utada",
+        "year": "2005",
+        "unstructured": "Utada, A. S. et al. Monodisperse double emulsions generated from a microcapillary device. Science 308, 537–541 (2005).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "163",
+        "DOI": "10.1038/nmeth.2772",
+        "volume": "11",
+        "author": "S Islam",
+        "year": "2014",
+        "unstructured": "Islam, S. et al. Quantitative single-cell RNA-seq with unique molecular identifiers. Nat. Methods 11, 163–166 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "473",
+        "DOI": "10.1093/nar/gkn952",
+        "volume": "37",
+        "author": "B Arezi",
+        "year": "2009",
+        "unstructured": "Arezi, B. & Hogrefe, H. Novel mutations in Moloney murine leukemia virus reverse transcriptase increase thermostability through tighter binding to template-primer. Nucleic Acids Res. 37, 473–481 (2009).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "71_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "3118",
+        "DOI": "10.1093/nar/gkf417",
+        "volume": "30",
+        "author": "GF Gerard",
+        "year": "2002",
+        "unstructured": "Gerard, G. F. et al. The role of template-primer in protection of reverse transcriptase from thermal inactivation. Nucleic Acids Res. 30, 3118–3129 (2002).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "71_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "R31",
+        "DOI": "10.1186/gb-2013-14-4-r31",
+        "volume": "14",
+        "author": "Y Sasagawa",
+        "year": "2013",
+        "unstructured": "Sasagawa, Y. et al. Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity. Genome Biol. 14, R31–R31 (2013).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "71_CR36",
+        "first-page": "1160",
+        "volume": "21",
+        "author": "S Islam",
+        "year": "2011",
+        "unstructured": "Islam, S. et al. Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq. Genome Biol. 21, 1160–1167 (2011).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "71_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "777",
+        "DOI": "10.1038/nbt.2282",
+        "volume": "30",
+        "author": "D Ramsköld",
+        "year": "2012",
+        "unstructured": "Ramsköld, D. et al. Full-Length mRNA-Seq from single cell levels of RNA and individual circulating tumor cells. Nat. Biotechnol. 30, 777–782 (2012).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "666",
+        "DOI": "10.1016/j.celrep.2012.08.003",
+        "volume": "2",
+        "author": "T Hashimshony",
+        "year": "2012",
+        "unstructured": "Hashimshony, T., Wagner, F., Sher, N. & Yanai, I. CEL-Seq: single-cell RNA-Seq by multiplexed linear amplification. Cell Rep. 2, 666–673 (2012).",
+        "journal-title": "Cell Rep."
+      },
+      {
+        "key": "71_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "776",
+        "DOI": "10.1126/science.1247651",
+        "volume": "343",
+        "author": "DA Jaitin",
+        "year": "2014",
+        "unstructured": "Jaitin, D. A. et al. Massively parallel single cell RNA-Seq for marker-free decomposition of tissues into cell types. Science 343, 776–779 (2014).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR40",
+        "first-page": "2634",
+        "volume": "50",
+        "author": "J Morris",
+        "year": "2011",
+        "unstructured": "Morris, J., Singh, J. M. & Eberwine, J. H. Transcriptome analysis of single cells. J. Vis. Exp. 50, 2634 (2011).",
+        "journal-title": "J. Vis. Exp."
+      },
+      {
+        "key": "71_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1096",
+        "DOI": "10.1038/nmeth.2639",
+        "volume": "10",
+        "author": "S Picelli",
+        "year": "2013",
+        "unstructured": "Picelli, S. et al. Smart-seq2 for sensitive full-length transcriptome profiling in single cells. Nat. Methods 10, 1096–1098 (2013).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.1126/science.1245316",
+        "volume": "343",
+        "author": "Q Deng",
+        "year": "2014",
+        "unstructured": "Deng, Q., Ramsköld, D., Reinius, B. & Sandberg, R. Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells. Science 343, 193–196 (2014).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "1202",
+        "DOI": "10.1016/j.cell.2015.05.002",
+        "volume": "161",
+        "author": "EZ Macosko",
+        "year": "2015",
+        "unstructured": "Macosko, E. Z. et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. Cell 161, 1202–1214 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "637",
+        "DOI": "10.1038/nmeth.2930",
+        "volume": "11",
+        "author": "D Grün",
+        "year": "2014",
+        "unstructured": "Grün, D., Kester, L. & van Oudenaarden, A. Validation of noise models for single-cell transcriptomics. Nat. Methods 11, 637–640 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "589",
+        "DOI": "10.1093/bioinformatics/btp698",
+        "volume": "26",
+        "author": "H Li",
+        "year": "2010",
+        "unstructured": "Li, H. & Durbin, R. Fast and accurate long-read alignment with Burrows–Wheeler transform. Bioinformatics 26, 589–595 (2010).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1093/bioinformatics/bts635",
+        "volume": "29",
+        "author": "A Dobin",
+        "year": "2013",
+        "unstructured": "Dobin, A. et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics 29, 15–21 (2013).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "1530",
+        "DOI": "10.1093/bioinformatics/bts196",
+        "volume": "28",
+        "author": "DS DeLuca",
+        "year": "2012",
+        "unstructured": "DeLuca, D. S. et al. RNA-SeQC: RNA-seq metrics for quality control and process optimization. Bioinformatics 28, 1530–1532 (2012).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1004333",
+        "DOI": "10.1371/journal.pcbi.1004333",
+        "volume": "11",
+        "author": "CA Vallejos",
+        "year": "2015",
+        "unstructured": "Vallejos, C. A., Marioni, J. C. & Richardson, S. BASiCS: Bayesian Analysis of Single-Cell Sequencing Data. PLoS Comput. Biol. 11, e1004333 (2015).",
+        "journal-title": "PLoS Comput. Biol."
+      },
+      {
+        "key": "71_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "896",
+        "DOI": "10.1038/nbt.2931",
+        "volume": "32",
+        "author": "D Risso",
+        "year": "2014",
+        "unstructured": "Risso, D., Ngai, J., Speed, T. P. & Dudoit, S. Normalization of RNA-seq data using factor analysis of control genes or samples. Nat. Biotechnol. 32, 896–902 (2014).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "621",
+        "DOI": "10.1038/nmeth.1226",
+        "volume": "5",
+        "author": "A Mortazavi",
+        "year": "2008",
+        "unstructured": "Mortazavi, A., Williams, B. A., McCue, K., Schaeffer, L. & Wold, B. Mapping and quantifying mammalian transcriptomes by RNA-seq. Nat. Methods 5, 621–628 (2008).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "493",
+        "DOI": "10.1093/bioinformatics/btp692",
+        "volume": "26",
+        "author": "B Li",
+        "year": "2010",
+        "unstructured": "Li, B., Ruotti, V., Stewart, R. M., Thomson, J. A. & Dewey, C. N. RNA-seq gene expression estimation with read mapping uncertainty. Bioinformatics 26, 493–500 (2010).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "R25",
+        "DOI": "10.1186/gb-2010-11-3-r25",
+        "volume": "11",
+        "author": "MD Robinson",
+        "year": "2010",
+        "unstructured": "Robinson, M. D. & Oshlack, A. A scaling normalization method for differential expression analysis of RNA-seq data. Genome Biol. 11, R25–R25 (2010).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "71_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "R106",
+        "DOI": "10.1186/gb-2010-11-10-r106",
+        "volume": "11",
+        "author": "S Anders",
+        "year": "2010",
+        "unstructured": "Anders, S. & Huber, W. Differential expression analysis for sequence count data. Genome Biol. 11, R106–R106 (2010).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "71_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "523",
+        "DOI": "10.1093/biostatistics/kxr031",
+        "volume": "13",
+        "author": "J Li",
+        "year": "2012",
+        "unstructured": "Li, J., Witten, D. M., Johnstone, I. M. & Tibshirani, R. Normalization, testing, and false discovery rate estimation for RNA-sequencing data. Biostatistics 13, 523–538 (2012).",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "71_CR55",
+        "author": "AT Lun",
+        "volume": "17",
+        "year": "2016",
+        "unstructured": "Lun, A. T., Bach, K. & Marioni, J. C. Pooling across cells to normalize single-cell RNA sequencing data with many zero counts. Genome Biol. 17, 75 (2016).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-016-0947-7",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "71_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "1093",
+        "DOI": "10.1038/nmeth.2645",
+        "volume": "10",
+        "author": "P Brennecke",
+        "year": "2013",
+        "unstructured": "Brennecke, P. et al. Accounting for technical noise in single-cell RNA-seq experiments. Nat. Methods 10, 1093–1095 (2013).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "1187",
+        "DOI": "10.1016/j.cell.2015.04.044",
+        "volume": "161",
+        "author": "AM Klein",
+        "year": "2015",
+        "unstructured": "Klein, A. M. et al. Droplet barcoding for single cell transcriptomics applied to embryonic stem cells. Cell 161, 1187–1201 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.1038/nbt.3102",
+        "volume": "33",
+        "author": "F Buettner",
+        "year": "2015",
+        "unstructured": "Buettner, F. et al. Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. Nat. Biotechnol. 33, 155–160 (2015).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR59",
+        "author": "H Kacser",
+        "year": "1957",
+        "unstructured": "Kacser, H. & Waddington, C. H. The Strategy of the Genes: A Discussion of Some Aspects of Theoretical Biology (Routledge, London, UK, 1957).",
+        "volume-title": "The Strategy of the Genes: A Discussion of Some Aspects of Theoretical Biology"
+      },
+      {
+        "key": "71_CR60",
+        "first-page": "2579",
+        "volume": "9",
+        "author": "LJP Maaten van der",
+        "year": "2008",
+        "unstructured": "van der Maaten, L. J. P. & Hinton, G. E. Visualizing high-dimensional data using t-SNE. J. Mach. Learn. Res. 9, 2579–2605 (2008).",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "71_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.2307/1418869",
+        "volume": "63",
+        "author": "F Attneave",
+        "year": "1950",
+        "unstructured": "Attneave, F. Dimensions of similarity. Am. J. Psychol. 63, 516–556 (1950).",
+        "journal-title": "Am. J. Psychol."
+      },
+      {
+        "key": "71_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "2319",
+        "DOI": "10.1126/science.290.5500.2319",
+        "volume": "290",
+        "author": "JB Tenenbaum",
+        "year": "2000",
+        "unstructured": "Tenenbaum, J. B., Silva, V. D. & Langford, J. C. A global geometric framework for nonlinear dimensionality reduction. Science 290, 2319 (2000).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "2323",
+        "DOI": "10.1126/science.290.5500.2323",
+        "volume": "290",
+        "author": "ST Roweis",
+        "year": "2000",
+        "unstructured": "Roweis, S. T. & Saul, L. K. Nonlinear dimensionality reduction by locally linear embedding. Science 290, 2323–2326 (2000).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "567",
+        "DOI": "10.1186/1471-2105-11-567",
+        "volume": "11",
+        "author": "C Bartenhagen",
+        "year": "2010",
+        "unstructured": "Bartenhagen, C., Klein, H.-U., Ruckert, C., Jiang, X. & Dugas, M. Comparative study of unsupervised dimension reduction techniques for the visualization of microarray gene expression data. BMC Bioinforma. 11, 567–567 (2010).",
+        "journal-title": "BMC Bioinforma."
+      },
+      {
+        "key": "71_CR65",
+        "author": "T Ilicic",
+        "volume": "17",
+        "year": "2016",
+        "unstructured": "Ilicic, T. et al. Classification of low quality cells from single-cell RNA-seq data. Genome Biol. 17, 29 (2016).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-016-0888-1",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "71_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "740",
+        "DOI": "10.1038/nmeth.2967",
+        "volume": "11",
+        "author": "PV Kharchenko",
+        "year": "2014",
+        "unstructured": "Kharchenko, P. V., Silberstein, L. & Scadden, D. T. Bayesian approach to single-cell differential expression analysis. Nat. Methods 11, 740–742 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "issue": "Suppl. 1",
+        "key": "71_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "i248",
+        "DOI": "10.1093/bioinformatics/bth941",
+        "volume": "20",
+        "author": "I Nachman",
+        "year": "2004",
+        "unstructured": "Nachman, I., Regev, A. & Friedman, N. Inferring quantitative models of regulatory networks from expression data. Bioinformatics 20 (Suppl. 1), i248–i256 (2004).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR68",
+        "first-page": "18",
+        "volume": "3",
+        "author": "S Liang",
+        "year": "1998",
+        "unstructured": "Liang S., Fuhrman S., Somogyi R. Reveal, a general reverse engineering algorithm for inference of genetic network architectures. Pac. Symp. Biocomput. 3, 18–29 (1998).",
+        "journal-title": "Pac. Symp. Biocomput"
+      },
+      {
+        "key": "71_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "382",
+        "DOI": "10.1038/ng1532",
+        "volume": "37",
+        "author": "K Basso",
+        "year": "2005",
+        "unstructured": "Basso, K. et al. Reverse engineering of regulatory networks in human B cells. Nat. Genet. 37, 382–390 (2005).",
+        "journal-title": "Nat. Genet."
+      },
+      {
+        "key": "71_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "R92",
+        "DOI": "10.1186/gb-2004-5-11-r92",
+        "volume": "5",
+        "author": "A Wille",
+        "year": "2004",
+        "unstructured": "Wille, A. et al. Sparse graphical Gaussian modeling of the isoprenoid gene network in Arabidopsis thaliana. Genome Biol. 5, R92–R92 (2004).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "71_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "2314",
+        "DOI": "10.1093/bioinformatics/btx194",
+        "volume": "33",
+        "author": "H Matsumoto",
+        "year": "2017",
+        "unstructured": "Matsumoto, H. et al. SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation. Bioinformatics 33, 2314–2321 (2017).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "109",
+        "DOI": "10.1016/S0092-8674(00)00015-5",
+        "volume": "102",
+        "author": "TR Hughes",
+        "year": "2000",
+        "unstructured": "Hughes, T. R. et al. Functional discovery via a compendium of expression profiles. Cell 102, 109–126 (2000).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "W162",
+        "DOI": "10.1093/nar/gks459",
+        "volume": "40",
+        "author": "M Kotera",
+        "year": "2012",
+        "unstructured": "Kotera, M., Yamanishi, Y., Moriya, Y., Kanehisa, M. & Goto, S. GENIES: gene network inference engine based on supervised analysis. Nucleic Acids Res. 40, W162–W167 (2012).",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "71_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1000044",
+        "DOI": "10.1371/journal.pcbi.1000044",
+        "volume": "4",
+        "author": "J Ernst",
+        "year": "2008",
+        "unstructured": "Ernst, J. et al. A semi-supervised method for predicting transcription factor–gene interactions in Escherichia coli. PLoS Comput. Biol. 4, e1000044 (2008).",
+        "journal-title": "PLoS Comput. Biol."
+      },
+      {
+        "key": "71_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "i76",
+        "DOI": "10.1093/bioinformatics/btn273",
+        "volume": "24",
+        "author": "F Mordelet",
+        "year": "2008",
+        "unstructured": "Mordelet, F. & Vert, J.-P. SIRENE: supervised inference of regulatory networks. Bioinformatics 24, i76–i82 (2008).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "14863",
+        "DOI": "10.1073/pnas.95.25.14863",
+        "volume": "95",
+        "author": "MB Eisen",
+        "year": "1998",
+        "unstructured": "Eisen, M. B., Spellman, P. T., Brown, P. O. & Botstein, D. Cluster analysis and display of genome-wide expression patterns. Proc. Natl. Acad. Sci. USA 95, 14863–14868 (1998).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "261",
+        "DOI": "10.1093/bioinformatics/18.2.261",
+        "volume": "18",
+        "author": "I Shmulevich",
+        "year": "2002",
+        "unstructured": "Shmulevich, I., Dougherty, E. R., Kim, S. & Zhang, W. Probabilistic Boolean Networks: a rule-based uncertainty model for gene regulatory networks. Bioinformatics 18, 261–274 (2002).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "601",
+        "DOI": "10.1089/106652700750050961",
+        "volume": "7",
+        "author": "N Friedman",
+        "year": "2000",
+        "unstructured": "Friedman, N., Linial, M., Nachman, I. & Pe’er, D. Using Bayesian networks to analyze expression data. J. Comput. Biol. 7, 601–620 (2000).",
+        "journal-title": "J. Comput. Biol."
+      },
+      {
+        "key": "71_CR79",
+        "first-page": "1287",
+        "volume": "5",
+        "author": "DM Chickering",
+        "year": "2005",
+        "unstructured": "Chickering, D. M., Heckerman, D. & Meek, C. Large-sample learning of Bayesian networks is NP-Hard. J. Mach. Learn. Res. 5, 1287–1330 (2005).",
+        "journal-title": "J. Mach. Learn. Res."
+      },
+      {
+        "key": "71_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "98",
+        "DOI": "10.1093/bioinformatics/btr626",
+        "volume": "28",
+        "author": "X Zhang",
+        "year": "2012",
+        "unstructured": "Zhang, X. et al. Inferring gene regulatory networks from gene expression data by path consistency algorithm based on conditional mutual information. Bioinformatics 28, 98–104 (2012).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "269",
+        "DOI": "10.1038/nbt.3154",
+        "volume": "33",
+        "author": "V Moignard",
+        "year": "2015",
+        "unstructured": "Moignard, V. et al. Decoding the regulatory network for blood development from single-cell gene expression measurements. Nat. Biotechnol. 33, 269–276 (2015).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "i89",
+        "DOI": "10.1093/bioinformatics/btv257",
+        "volume": "31",
+        "author": "A Ocone",
+        "year": "2015",
+        "unstructured": "Ocone, A., Haghverdi, L., Mueller, N. S. & Theis, F. J. Reconstructing gene regulatory dynamics from high-dimensional single-cell snapshot data. Bioinformatics 31, i89–i96 (2015).",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "71_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "1209",
+        "DOI": "10.1016/j.cell.2012.08.023",
+        "volume": "150",
+        "author": "Y Buganim",
+        "year": "2012",
+        "unstructured": "Buganim, Y. et al. Single-cell gene expression analyses of cellular reprogramming reveal a stochastic early and hierarchic late phase. Cell 150, 1209–1222 (2012).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "1130",
+        "DOI": "10.1016/j.celrep.2014.04.011",
+        "volume": "7",
+        "author": "B Mahata",
+        "year": "2014",
+        "unstructured": "Mahata, B. et al. Single-Cell RNA sequencing reveals T helper cells synthesizing steroids de novo to contribute to immune homeostasis. Cell Rep. 7, 1130–1142 (2014).",
+        "journal-title": "Cell Rep."
+      },
+      {
+        "key": "71_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "552",
+        "DOI": "10.1038/nrg3244",
+        "volume": "13",
+        "author": "Z Bar-Joseph",
+        "year": "2012",
+        "unstructured": "Bar-Joseph, Z., Gitter, A. & Simon, I. Studying and modelling dynamic biological processes using time-series gene expression data. Nat. Rev. Genet. 13, 552–564 (2012).",
+        "journal-title": "Nat. Rev. Genet."
+      },
+      {
+        "key": "71_CR86",
+        "doi-asserted-by": "publisher",
+        "first-page": "200",
+        "DOI": "10.1099/ijs.0.65392-0",
+        "volume": "58",
+        "author": "M Martens",
+        "year": "2008",
+        "unstructured": "Martens, M. et al. Advantages of multilocus sequence analysis for taxonomic studies: a case study using 10 housekeeping genes in the genus Ensifer (including former Sinorhizobium). Int. J. Syst. Evol. Microbiol. 58, 200–214 (2008).",
+        "journal-title": "Int. J. Syst. Evol. Microbiol."
+      },
+      {
+        "key": "71_CR87",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1038/nature06107",
+        "volume": "449",
+        "author": "I Wapinski",
+        "year": "2007",
+        "unstructured": "Wapinski, I., Pfeffer, A., Friedman, N. & Regev, A. Natural history and evolutionary principles of gene duplication in fungi. Nature 449, 54–61 (2007).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "979",
+        "DOI": "10.1038/nmeth.4402",
+        "volume": "14",
+        "author": "X Qiu",
+        "year": "2017",
+        "unstructured": "Qiu, X. et al. Reversed graph embedding resolves complex single-cell trajectories. Nat. Methods 14, 979–982 (2017).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "E5643",
+        "DOI": "10.1073/pnas.1408993111",
+        "volume": "111",
+        "author": "E Marco",
+        "year": "2014",
+        "unstructured": "Marco, E. et al. Bifurcation analysis of single-cell gene expression data reveals epigenetic landscape. Proc. Natl. Acad. Sci. USA 111, E5643–E5650 (2014).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "71_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "925",
+        "DOI": "10.1126/science.aad7038",
+        "volume": "353",
+        "author": "N Habib",
+        "year": "2016",
+        "unstructured": "Habib, N. et al. Div-Seq: single nucleus RNA-Seq reveals dynamics of rare adult newborn neurons. Science 353, 925–928 (2016).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "71_CR91",
+        "doi-asserted-by": "publisher",
+        "first-page": "360",
+        "DOI": "10.1016/j.stem.2015.07.013",
+        "volume": "17",
+        "author": "DA Berg",
+        "year": "2015",
+        "unstructured": "Berg, D. A. et al. Single-cell RNA-Seq with waterfall reveals molecular cascades underlying adult neurogenesis. Cell Stem Cell 17, 360–372 (2015).",
+        "journal-title": "Cell Stem Cell"
+      },
+      {
+        "key": "71_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "845",
+        "DOI": "10.1038/nmeth.3971",
+        "volume": "13",
+        "author": "L Haghverdi",
+        "year": "2016",
+        "unstructured": "Haghverdi, L., Büttner, M., Wolf, F. A., Buettner, F. & Theis, F. J. Diffusion pseudotime robustly reconstructs lineage branching. Nat. Methods 13, 845–848 (2016).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "71_CR93",
+        "unstructured": "Schiebinger, G. et al. Reconstruction of developmental landscapes by optimal-transport analysis of single-cell gene expression sheds light on cellular reprogramming. bioRxiv https://doi.org/10.1101/191056, (2017).",
+        "DOI": "10.1101/191056",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "71_CR94",
+        "doi-asserted-by": "publisher",
+        "first-page": "714",
+        "DOI": "10.1016/j.cell.2014.04.005",
+        "volume": "157",
+        "author": "SC Bendall",
+        "year": "2014",
+        "unstructured": "Bendall, S. C. et al. Single-cell trajectory detection uncovers progression and regulatory coordination in human B cell development. Cell 157, 714–725 (2014).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR95",
+        "doi-asserted-by": "publisher",
+        "first-page": "637",
+        "DOI": "10.1038/nbt.3569",
+        "volume": "34",
+        "author": "M Setty",
+        "year": "2016",
+        "unstructured": "Setty, M. et al. Wishbone identifies bifurcating developmental trajectories from single-cell data. Nat. Biotechnol. 34, 637–645 (2016).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "71_CR96",
+        "author": "JD Welch",
+        "volume": "18",
+        "year": "2017",
+        "unstructured": "Welch, J. D., Hartemink, A. J. & Prins, J. F. MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics. Genome Biol. 18, 138 (2017).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-017-1269-0",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "71_CR97",
+        "author": "KT Kim",
+        "volume": "16",
+        "year": "2015",
+        "unstructured": "Kim, K.-T. et al. Single-cell mRNA sequencing identifies subclonal heterogeneity in anti-cancer drug responses of lung adenocarcinoma cells. Genome Biol. 16, 127 (2015).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-015-0692-3",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "71_CR98",
+        "doi-asserted-by": "publisher",
+        "first-page": "889",
+        "DOI": "10.15252/msb.20166969",
+        "volume": "12",
+        "author": "S Müller",
+        "year": "2016",
+        "unstructured": "Müller, S. et al. Single‐cell sequencing maps gene expression to mutational phylogenies in PDGF‐ and EGF‐driven gliomas. Mol. Syst. Biol. 12, 889 (2016).",
+        "journal-title": "Mol. Syst. Biol."
+      },
+      {
+        "key": "71_CR99",
+        "doi-asserted-by": "publisher",
+        "first-page": "107",
+        "DOI": "10.1038/nature20777",
+        "volume": "541",
+        "author": "KL Frieda",
+        "year": "2017",
+        "unstructured": "Frieda, K. L. et al. Synthetic recording and in situ readout of lineage information in single cells. Nature 541, 107–111 (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "71_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "599",
+        "DOI": "10.1038/nprot.2017.149",
+        "volume": "13",
+        "author": "V Svensson",
+        "year": "2018",
+        "unstructured": "Svensson, V., Vento-Tormo, R. & Teichmann, S. A. Exponential scaling of single-cell RNA-seq in the past decade. Nat. Protoc. 13, 599–604 (2018).",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "71_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "e27041",
+        "DOI": "10.7554/eLife.27041",
+        "volume": "6",
+        "author": "A Regev",
+        "year": "2017",
+        "unstructured": "Regev, A. et al. The Human Cell Atlas. eLife 6, e27041 (2017).",
+        "journal-title": "eLife"
+      },
+      {
+        "key": "71_CR102",
+        "doi-asserted-by": "publisher",
+        "first-page": "566",
+        "DOI": "10.1016/j.cell.2016.09.027",
+        "volume": "167",
+        "author": "G Manno La",
+        "year": "2016",
+        "unstructured": "La Manno, G. et al. Molecular diversity of midbrain development in mouse, human, and stem cells. Cell 167, 566–580, e19 (2016).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "71_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "1586",
+        "DOI": "10.1126/science.aaf1204",
+        "volume": "352",
+        "author": "BB Lake",
+        "year": "2016",
+        "unstructured": "Lake, B. B. et al. Neuronal subtypes and diversity revealed by single-nucleus RNA sequencing of the human brain. Science 352, 1586–1590 (2016).",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "Experimental & Molecular Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/s12276-018-0071-8",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s12276-018-0071-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s12276-018-0071-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2019-08-06T23:03:01Z",
+      "timestamp": 1565132581000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "references-count": 103,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            8
+          ]
+        ]
+      },
+      "issue": "8"
+    },
+    "alternative-id": [
+      "71"
+    ],
+    "URL": "http://dx.doi.org/10.1038/s12276-018-0071-8",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "2092-6413"
+    ],
+    "issn-type": [
+      {
+        "value": "2092-6413",
+        "type": "electronic"
+      }
+    ],
+    "assertion": [
+      {
+        "value": "13 November 2017",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "13 December 2017",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 August 2018",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare that they have no conflict of interest.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ],
+    "article-number": "96"
+  }
+}

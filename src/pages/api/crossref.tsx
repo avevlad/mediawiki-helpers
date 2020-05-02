@@ -25,6 +25,16 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 
   let r = {};
 
+  const fileName = path.join(doi_assets_folder, `${slugify_doi}.json`);
+
+  try {
+    const rfR = await fsPromises.readFile(fileName, "utf-8");
+    res.statusCode = 200;
+    res.setHeader("Content-Type", "application/json");
+    res.end(rfR);
+    return;
+  } catch (e) {}
+
   try {
     const sr = await axios.get(`https://api.crossref.org/v1/works/${doi}`, {
       headers: {

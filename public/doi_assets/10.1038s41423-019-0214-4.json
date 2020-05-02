@@ -1,0 +1,1248 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2020-04-03T09:42:01Z",
+      "timestamp": 1585906921172
+    },
+    "reference-count": 100,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "URL": "http://www.springer.com/tdm",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              2,
+              22
+            ]
+          ],
+          "date-time": "2019-02-22T00:00:00Z",
+          "timestamp": 1550793600000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001809",
+        "name": "National Natural Science Foundation of China",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "81770188",
+          "91842301",
+          "31722027"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Cell Mol Immunol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1038/s41423-019-0214-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2019-02-22T12:04:15Z",
+      "timestamp": 1550837055000
+    },
+    "page": "242-249",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Revolutionizing immunology with single-cell RNA sequencing"
+    ],
+    "prefix": "10.1038",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Haide",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Fang",
+        "family": "Ye",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guoji",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "214_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "58",
+        "DOI": "10.1126/science.aan6828",
+        "volume": "358",
+        "author": "MJT Stubbington",
+        "year": "2017",
+        "unstructured": "Stubbington, M. J. T., Rozenblatt-Rosen, O., Regev, A. & Teichmann, S. A. Single-cell transcriptomics to explore the immune system in health and disease. Science 358, 58–63 (2017).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.1038/nri.2017.76",
+        "volume": "18",
+        "author": "E Papalexi",
+        "year": "2018",
+        "unstructured": "Papalexi, E. & Satija, R. Single-cell RNA sequencing to explore immune cell heterogeneity. Nat. Rev. Immunol. 18, 35–45 (2018).",
+        "journal-title": "Nat. Rev. Immunol."
+      },
+      {
+        "key": "214_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "133",
+        "DOI": "10.1111/imm.12553",
+        "volume": "147",
+        "author": "V Proserpio",
+        "year": "2016",
+        "unstructured": "Proserpio, V. & Mahata, B. Single-cell technologies to study the immune system. Immunology 147, 133–140 (2016).",
+        "journal-title": "Immunology"
+      },
+      {
+        "key": "214_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1038/nmeth.1315",
+        "volume": "6",
+        "author": "F Tang",
+        "year": "2009",
+        "unstructured": "Tang, F. et al. mRNA-Seq whole-transcriptome analysis of a single cell. Nat. Methods 6, 377–382 (2009).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "163",
+        "DOI": "10.1038/nmeth.2772",
+        "volume": "11",
+        "author": "S Islam",
+        "year": "2014",
+        "unstructured": "Islam, S. et al. Quantitative single-cell RNA-seq with unique molecular identifiers. Nat. Methods 11, 163–166 (2014).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1038/nprot.2009.236",
+        "volume": "5",
+        "author": "F Tang",
+        "year": "2010",
+        "unstructured": "Tang, F. et al. RNA-Seq analysis to capture the transcriptome landscape of a single cell. Nat. Protoc. 5, 516–535 (2010).",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "214_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "666",
+        "DOI": "10.1016/j.celrep.2012.08.003",
+        "volume": "2",
+        "author": "T Hashimshony",
+        "year": "2012",
+        "unstructured": "Hashimshony, T., Wagner, F., Sher, N. & Yanai, I. CEL-Seq: single-cell RNA-Seq by multiplexed linear amplification. Cell Rep. 2, 666–673 (2012).",
+        "journal-title": "Cell Rep."
+      },
+      {
+        "key": "214_CR8",
+        "author": "T Hashimshony",
+        "volume": "17",
+        "year": "2016",
+        "unstructured": "Hashimshony, T. et al. CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq. Genome Biol. 17, 77 (2016).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-016-0938-8",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "776",
+        "DOI": "10.1126/science.1247651",
+        "volume": "343",
+        "author": "DA Jaitin",
+        "year": "2014",
+        "unstructured": "Jaitin, D. A. et al. Massively parallel single-cell RNA-seq for marker-free decomposition of tissues into cell types. Science 343, 776–779 (2014).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "777",
+        "DOI": "10.1038/nbt.2282",
+        "volume": "30",
+        "author": "D Ramsköld",
+        "year": "2012",
+        "unstructured": "Ramsköld, D. et al. Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells. Nat. Biotechnol. 30, 777–782 (2012).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "214_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1160",
+        "DOI": "10.1101/gr.110882.110",
+        "volume": "21",
+        "author": "S Islam",
+        "year": "2011",
+        "unstructured": "Islam, S. et al. Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq. Genome Res. 21, 1160–1167 (2011).",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "214_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1096",
+        "DOI": "10.1038/nmeth.2639",
+        "volume": "10",
+        "author": "S Picelli",
+        "year": "2013",
+        "unstructured": "Picelli, S. et al. Smart-seq2 for sensitive full-length transcriptome profiling in single cells. Nat. Methods 10, 1096–1098 (2013).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "7048",
+        "DOI": "10.1073/pnas.1402030111",
+        "volume": "111",
+        "author": "AM Streets",
+        "year": "2014",
+        "unstructured": "Streets, A. M. et al. Microfluidic single-cell whole-transcriptome sequencing. Proc. Natl. Acad. Sci. USA 111, 7048–7053 (2014).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "214_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "813",
+        "DOI": "10.1038/nprot.2012.022",
+        "volume": "7",
+        "author": "S Islam",
+        "year": "2012",
+        "unstructured": "Islam, S. et al. Highly multiplexed and strand-specific single-cell RNA 5’ end sequencing. Nat. Protoc. 7, 813–828 (2012).",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "214_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1972",
+        "DOI": "10.1016/j.cell.2018.11.021",
+        "volume": "175",
+        "author": "JT Neal",
+        "year": "2018",
+        "unstructured": "Neal, J. T. et al. Organoid modeling of the tumor immune microenvironment. Cell 175, 1972–1988 e1916 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "681",
+        "DOI": "10.1016/j.devcel.2016.02.020",
+        "volume": "36",
+        "author": "G Peng",
+        "year": "2016",
+        "unstructured": "Peng, G. et al. Spatial transcriptome for the molecular annotation of lineage fates and cell identity in mid-gastrula mouse embryo. Dev. Cell 36, 681–697 (2016).",
+        "journal-title": "Dev. Cell"
+      },
+      {
+        "key": "214_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "566",
+        "DOI": "10.1038/nprot.2017.003",
+        "volume": "12",
+        "author": "J Chen",
+        "year": "2017",
+        "unstructured": "Chen, J. et al. Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq. Nat. Protoc. 12, 566–580 (2017).",
+        "journal-title": "Nat. Protoc."
+      },
+      {
+        "key": "214_CR18",
+        "author": "X Han",
+        "volume": "19",
+        "year": "2018",
+        "unstructured": "Han, X. et al. Mapping human pluripotent stem cell differentiation pathways using high throughput single-cell RNA-sequencing. Genome Biol. 19, 47 (2018).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-018-1426-0",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "631",
+        "DOI": "10.1016/j.molcel.2017.01.023",
+        "volume": "65",
+        "author": "C Ziegenhain",
+        "year": "2017",
+        "unstructured": "Ziegenhain, C. et al. Comparative analysis of single-cell RNA sequencing methods. Mol. Cell 65, 631–643 e634 (2017).",
+        "journal-title": "Mol. Cell"
+      },
+      {
+        "key": "214_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1091.e17",
+        "DOI": "10.1016/j.cell.2018.02.001",
+        "volume": "172",
+        "author": "X Han",
+        "year": "2018",
+        "unstructured": "Han, X. et al. Mapping the mouse cell atlas by microwell-seq. Cell 172, 1091.e17–1107.e17 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1038/nmeth.4179",
+        "volume": "14",
+        "author": "TM Gierahn",
+        "year": "2017",
+        "unstructured": "Gierahn, T. M. et al. Seq-well: portable, low-cost RNA sequencing of single cells at high throughput. Nat. Methods 14, 395–398 (2017).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1258367",
+        "DOI": "10.1126/science.1258367",
+        "volume": "347",
+        "author": "HC Fan",
+        "year": "2015",
+        "unstructured": "Fan, H. C., Fu, G. K. & Fodor, S. P. Combinatorial labeling of single cells for gene expression cytometry. Science 347, 1258367 (2015).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1187",
+        "DOI": "10.1016/j.cell.2015.04.044",
+        "volume": "161",
+        "author": "AM Klein",
+        "year": "2015",
+        "unstructured": "Klein, A. M. et al. Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell 161, 1187–1201 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1202",
+        "DOI": "10.1016/j.cell.2015.05.002",
+        "volume": "161",
+        "author": "EZ Macosko",
+        "year": "2015",
+        "unstructured": "Macosko, E. Z. et al. Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. Cell 161, 1202–1214 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR25",
+        "unstructured": "Briggs, J. A., et al. The dynamics of gene expression in vertebrate embryogenesis at single-cell resolution. Science 360, eaar5780 (2018).",
+        "DOI": "10.1126/science.aar5780",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR26",
+        "unstructured": "Wagner, D. E. et al. Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo. Science 360, 981–987 (2018).",
+        "DOI": "10.1126/science.aar4362",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "881",
+        "DOI": "10.1126/science.aar4237",
+        "volume": "360",
+        "author": "MA Tosches",
+        "year": "2018",
+        "unstructured": "Tosches, M. A. et al. Evolution of pallium, hippocampus, and cortical cell types revealed by single-cell transcriptomics in reptiles. Science 360, 881–888 (2018).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR28",
+        "unstructured": "Plass, M. et al. Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics. Science 360, eaaq1723 (2018).",
+        "DOI": "10.1126/science.aaq1723",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR29",
+        "unstructured": "Fincher, C. T., Wurtzel, O., de Hoog, T., Kravarik, K. M. & Reddien, P. W. Cell type transcriptome atlas for the planarian Schmidtea mediterranea. Science 360, eaaq1736 (2018).",
+        "DOI": "10.1126/science.aaq1736",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR30",
+        "unstructured": "Farrell, J. A. et al Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis. Science 360, eaar3131 (2018).",
+        "DOI": "10.1126/science.aar3131",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR31",
+        "author": "GX Zheng",
+        "volume": "8",
+        "year": "2017",
+        "unstructured": "Zheng, G. X. et al. Massively parallel digital transcriptional profiling of single cells. Nat. Commun. 8, 14049 (2017).",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/ncomms14049",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR32",
+        "unstructured": "Zhang, X. et al. Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-seq systems. Mol. Cell 73, 130.e5–142.e5 (2018).",
+        "DOI": "10.1016/j.molcel.2018.10.020",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1016/j.ydbio.2017.11.006",
+        "volume": "434",
+        "author": "B Magella",
+        "year": "2018",
+        "unstructured": "Magella, B. et al. Cross-platform single cell analysis of kidney development shows stromal cells express Gdnf. Dev. Biol. 434, 36–47 (2018).",
+        "journal-title": "Dev. Biol."
+      },
+      {
+        "key": "214_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "661",
+        "DOI": "10.1126/science.aam8940",
+        "volume": "357",
+        "author": "J Cao",
+        "year": "2017",
+        "unstructured": "Cao, J. et al. Comprehensive single-cell transcriptional profiling of a multicellular organism. Science 357, 661–667 (2017).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "176",
+        "DOI": "10.1126/science.aam8999",
+        "volume": "360",
+        "author": "AB Rosenberg",
+        "year": "2018",
+        "unstructured": "Rosenberg, A. B. et al. Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science 360, 176–182 (2018).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "432",
+        "DOI": "10.1038/nature22370",
+        "volume": "545",
+        "author": "R Sugimura",
+        "year": "2017",
+        "unstructured": "Sugimura, R. et al. Haematopoietic stem and progenitor cells from human pluripotent stem cells. Nature 545, 432–438 (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "439",
+        "DOI": "10.1038/nature22326",
+        "volume": "545",
+        "author": "R Lis",
+        "year": "2017",
+        "unstructured": "Lis, R. et al. Conversion of adult endothelium to immunocompetent haematopoietic stem cells. Nature 545, 439–445 (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "487",
+        "DOI": "10.1038/nature17997",
+        "volume": "533",
+        "author": "F Zhou",
+        "year": "2016",
+        "unstructured": "Zhou, F. et al. Tracing haematopoietic stem cell formation at single-cell resolution. Nature 533, 487–492 (2016).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "3344",
+        "DOI": "10.1182/blood-2016-11-750729",
+        "volume": "129",
+        "author": "I Fares",
+        "year": "2017",
+        "unstructured": "Fares, I. et al. EPCR expression marks UM171-expanded CD34(+) cord blood stem cells. Blood 129, 3344–3351 (2017).",
+        "journal-title": "Blood"
+      },
+      {
+        "key": "214_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "3279",
+        "DOI": "10.1182/blood-2016-09-737700",
+        "volume": "129",
+        "author": "GH Martin",
+        "year": "2017",
+        "unstructured": "Martin, G. H. & Park, C. Y. EPCR: a novel marker of cultured cord blood HSCs. Blood 129, 3279–3280 (2017).",
+        "journal-title": "Blood"
+      },
+      {
+        "key": "214_CR41",
+        "author": "CS Baron",
+        "volume": "9",
+        "year": "2018",
+        "unstructured": "Baron, C. S. et al. Single-cell transcriptomics reveal the dynamic of haematopoietic stem cell production in the aorta. Nat. Commun. 9, 2517 (2018).",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/s41467-018-04893-3",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1535.e16",
+        "DOI": "10.1016/j.cell.2018.03.074",
+        "volume": "173",
+        "author": "JD Buenrostro",
+        "year": "2018",
+        "unstructured": "Buenrostro, J. D. et al. Integrated single-cell analysis maps the continuous regulatory landscape of human hematopoietic differentiation. Cell 173, 1535.e16–1548.e16 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "85",
+        "DOI": "10.1038/s41590-017-0001-2",
+        "volume": "19",
+        "author": "D Karamitros",
+        "year": "2018",
+        "unstructured": "Karamitros, D. et al. Single-cell analysis reveals the continuum of human lympho-myeloid progenitor cells. Nat. Immunol. 19, 85–97 (2018).",
+        "journal-title": "Nat. Immunol."
+      },
+      {
+        "key": "214_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "271",
+        "DOI": "10.1038/ncb3493",
+        "volume": "19",
+        "author": "L Velten",
+        "year": "2017",
+        "unstructured": "Velten, L. et al. Human haematopoietic stem cell lineage commitment is a continuous process. Nat. Cell Biol. 19, 271–281 (2017).",
+        "journal-title": "Nat. Cell Biol."
+      },
+      {
+        "key": "214_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1663",
+        "DOI": "10.1016/j.cell.2015.11.013",
+        "volume": "163",
+        "author": "F Paul",
+        "year": "2015",
+        "unstructured": "Paul, F. et al. Transcriptional heterogeneity and lineage commitment in myeloid progenitors. Cell 163, 1663–1677 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "845",
+        "DOI": "10.1038/nmeth.3971",
+        "volume": "13",
+        "author": "L Haghverdi",
+        "year": "2016",
+        "unstructured": "Haghverdi, L., Buttner, M., Wolf, F. A., Buettner, F. & Theis, F. J. Diffusion pseudotime robustly reconstructs lineage branching. Nat. Methods 13, 845–848 (2016).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "e20",
+        "DOI": "10.1182/blood-2016-05-716480",
+        "volume": "128",
+        "author": "S Nestorowa",
+        "year": "2016",
+        "unstructured": "Nestorowa, S. et al. A single-cell resolution map of mouse hematopoietic stem and progenitor cell differentiation. Blood 128, e20–e31 (2016).",
+        "journal-title": "Blood"
+      },
+      {
+        "key": "214_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "aab2116",
+        "DOI": "10.1126/science.aab2116",
+        "volume": "351",
+        "author": "F Notta",
+        "year": "2016",
+        "unstructured": "Notta, F. et al. Distinct routes of lineage development reshape the human blood hierarchy across ontogeny. Science 351, aab2116 (2016).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "627",
+        "DOI": "10.1016/j.stem.2018.04.003",
+        "volume": "22",
+        "author": "S Haas",
+        "year": "2018",
+        "unstructured": "Haas, S., Trumpp, A. & Milsom, M. D. Causes and consequences of hematopoietic stem cell heterogeneity. Cell Stem Cell 22, 627–638 (2018).",
+        "journal-title": "Cell Stem Cell"
+      },
+      {
+        "key": "214_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "966",
+        "DOI": "10.1016/j.celrep.2015.12.082",
+        "volume": "14",
+        "author": "IC Macaulay",
+        "year": "2016",
+        "unstructured": "Macaulay, I. C. et al. Single-cell RNA-sequencing reveals a continuous spectrum of differentiation in hematopoietic cells. Cell Rep. 14, 966–977 (2016).",
+        "journal-title": "Cell Rep."
+      },
+      {
+        "key": "214_CR51",
+        "author": "EI Athanasiadis",
+        "volume": "8",
+        "year": "2017",
+        "unstructured": "Athanasiadis, E. I. et al. Single-cell RNA-sequencing uncovers transcriptional states and fate decisions in haematopoiesis. Nat. Commun. 8, 2045 (2017).",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/s41467-017-02305-6",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "666",
+        "DOI": "10.1038/ni.3412",
+        "volume": "17",
+        "author": "R Drissen",
+        "year": "2016",
+        "unstructured": "Drissen, R. et al. Distinct myeloid progenitor-differentiation pathways identified through single-cell RNA sequencing. Nat. Immunol. 17, 666–676 (2016).",
+        "journal-title": "Nat. Immunol."
+      },
+      {
+        "key": "214_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "718",
+        "DOI": "10.1038/ni.3200",
+        "volume": "16",
+        "author": "A Schlitzer",
+        "year": "2015",
+        "unstructured": "Schlitzer, A. et al. Identification of cDC1- and cDC2-committed DC progenitors reveals early lineage priming at the common DC progenitor stage in the bone marrow. Nat. Immunol. 16, 718–728 (2015).",
+        "journal-title": "Nat. Immunol."
+      },
+      {
+        "key": "214_CR54",
+        "unstructured": "See, P. et al. Mapping the human DC lineage through the integration of high-dimensional techniques. Science 356, eaag3009 (2017)."
+      },
+      {
+        "key": "214_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1883",
+        "DOI": "10.1016/j.cell.2016.11.039",
+        "volume": "167",
+        "author": "DA Jaitin",
+        "year": "2016",
+        "unstructured": "Jaitin, D. A. et al. Dissecting immune circuits by linking CRISPR-pooled screens with single-cell RNA-seq. Cell 167, 1883–1896 e1815 (2016).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "698",
+        "DOI": "10.1038/nature19348",
+        "volume": "537",
+        "author": "A Olsson",
+        "year": "2016",
+        "unstructured": "Olsson, A. et al. Single-cell analysis of mixed-lineage states leading to a binary cell fate choice. Nature 537, 698–702 (2016).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "346",
+        "DOI": "10.1016/j.immuni.2016.07.014",
+        "volume": "45",
+        "author": "TA Kristiansen",
+        "year": "2016",
+        "unstructured": "Kristiansen, T. A. et al. Cellular barcoding links B-1a B cell potential to a fetal hematopoietic stem cell state at the single-cell level. Immunity 45, 346–357 (2016).",
+        "journal-title": "Immunity"
+      },
+      {
+        "key": "214_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "714",
+        "DOI": "10.1016/j.cell.2014.04.005",
+        "volume": "157",
+        "author": "SC Bendall",
+        "year": "2014",
+        "unstructured": "Bendall, S. C. et al. Single-cell trajectory detection uncovers progression and regulatory coordination in human B cell development. Cell 157, 714–725 (2014).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "329",
+        "DOI": "10.1038/nmeth.3800",
+        "volume": "13",
+        "author": "MJT Stubbington",
+        "year": "2016",
+        "unstructured": "Stubbington, M. J. T. et al. T cell fate and clonality inference from single-cell transcriptomes. Nat. Methods 13, 329–332 (2016).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "102",
+        "DOI": "10.1038/nature20105",
+        "volume": "539",
+        "author": "Y Yu",
+        "year": "2016",
+        "unstructured": "Yu, Y. et al. Single-cell RNA-seq identifies a PD-1(hi) ILC progenitor and defines its development pathway. Nature 539, 102–106 (2016).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR61",
+        "author": "B Psaila",
+        "volume": "17",
+        "year": "2016",
+        "unstructured": "Psaila, B. et al. Single-cell profiling of human megakaryocyte-erythroid progenitors identifies distinct megakaryocyte and erythroid differentiation pathways. Genome Biol. 17, 83 (2016).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-016-0939-7",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1038/nature25741",
+        "volume": "555",
+        "author": "BK Tusi",
+        "year": "2018",
+        "unstructured": "Tusi, B. K. et al. Population snapshots predict early haematopoietic and erythroid hierarchies. Nature 555, 54–60 (2018).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR63",
+        "author": "A Grover",
+        "volume": "7",
+        "year": "2016",
+        "unstructured": "Grover, A. et al. Single-cell RNA sequencing reveals molecular and functional platelet bias of aged haematopoietic stem cells. Nat. Commun. 7, 11075 (2016).",
+        "journal-title": "Nat. Commun.",
+        "DOI": "10.1038/ncomms11075",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "1433",
+        "DOI": "10.1126/science.aah4115",
+        "volume": "355",
+        "author": "CP Martinez-Jimenez",
+        "year": "2017",
+        "unstructured": "Martinez-Jimenez, C. P. et al. Aging increases cell-to-cell transcriptional variability upon immune stimulation. Science 355, 1433–1436 (2017).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR65",
+        "unstructured": "Villani, A. C. et al. Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. Science 356, eaah4573 (2017).",
+        "DOI": "10.1126/science.aah4573",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "729",
+        "DOI": "10.1002/hep.22034",
+        "volume": "47",
+        "author": "B Gao",
+        "year": "2008",
+        "unstructured": "Gao, B., Jeong, W. I. & Tian, Z. Liver: an organ with predominant innate immunity. Hepatology 47, 729–736 (2008).",
+        "journal-title": "Hepatology"
+      },
+      {
+        "key": "214_CR67",
+        "unstructured": "Mass, E. et al. Specification of tissue-resident macrophages during organogenesis. Science 353, aaf4238 (2016).",
+        "DOI": "10.1126/science.aaf4238",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR68",
+        "unstructured": "De Schepper, S. et al. Self-maintaining gut macrophages are essential for intestinal homeostasis. Cell 175, 400.e13–415.e13 (2018).",
+        "DOI": "10.1016/j.cell.2018.07.048",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "1031.e18",
+        "DOI": "10.1016/j.cell.2018.09.009",
+        "volume": "175",
+        "author": "M Cohen",
+        "year": "2018",
+        "unstructured": "Cohen, M. et al. Lung single-cell signaling interaction map reveals basophil role in macrophage imprinting. Cell 175, 1031.e18–1044.e18 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "347",
+        "DOI": "10.1038/s41586-018-0698-6",
+        "volume": "563",
+        "author": "R Vento-Tormo",
+        "year": "2018",
+        "unstructured": "Vento-Tormo, R. et al. Single-cell reconstruction of the early maternal-fetal interface in humans. Nature 563, 347–353 (2018).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "451",
+        "DOI": "10.1038/ni.3368",
+        "volume": "17",
+        "author": "AK Bjorklund",
+        "year": "2016",
+        "unstructured": "Bjorklund, A. K. et al. The heterogeneity of human CD127(+) innate lymphoid cells revealed by single-cell RNA sequencing. Nat. Immunol. 17, 451–460 (2016).",
+        "journal-title": "Nat. Immunol."
+      },
+      {
+        "key": "214_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "1231.e13",
+        "DOI": "10.1016/j.cell.2016.07.043",
+        "volume": "166",
+        "author": "M Gury-BenAri",
+        "year": "2016",
+        "unstructured": "Gury-BenAri, M. et al. The spectrum and regulatory landscape of intestinal innate lymphoid cells are shaped by the microbiome. Cell 166, 1231.e13–1246.e13 (2016).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "1400",
+        "DOI": "10.1016/j.cell.2015.11.009",
+        "volume": "163",
+        "author": "JT Gaublomme",
+        "year": "2015",
+        "unstructured": "Gaublomme, J. T. et al. Single-cell genomics unveils critical regulators of Th17 cell pathogenicity. Cell 163, 1400–1412 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR74",
+        "unstructured": "Karmaus, P. W. F. et al. Metabolic heterogeneity underlies reciprocal fates of Th17 cell stemness and plasticity. Nature 565, 101–105 (2018).",
+        "DOI": "10.1038/s41586-018-0806-7",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "986",
+        "DOI": "10.1038/s41591-018-0078-7",
+        "volume": "24",
+        "author": "P Savas",
+        "year": "2018",
+        "unstructured": "Savas, P. et al. Single-cell profiling of breast cancer T cells reveals a tissue-resident memory subset associated with improved prognosis. Nat. Med. 24, 986–993 (2018).",
+        "journal-title": "Nat. Med."
+      },
+      {
+        "key": "214_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "1293.e36",
+        "DOI": "10.1016/j.cell.2018.05.060",
+        "volume": "174",
+        "author": "E Azizi",
+        "year": "2018",
+        "unstructured": "Azizi, E. et al. Single-cell map of diverse immune phenotypes in the breast tumor microenvironment. Cell 174, 1293.e36–1308.e36 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "1221",
+        "DOI": "10.1016/j.cell.2017.11.006",
+        "volume": "171",
+        "author": "M Singer",
+        "year": "2017",
+        "unstructured": "Singer, M. et al. A distinct gene module for dysfunction uncoupled from activation in tumor-infiltrating T cells. Cell 171, 1221–1223 (2017).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "189",
+        "DOI": "10.1126/science.aad0501",
+        "volume": "352",
+        "author": "I Tirosh",
+        "year": "2016",
+        "unstructured": "Tirosh, I. et al. Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq. Science 352, 189–196 (2016).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "998.e20",
+        "DOI": "10.1016/j.cell.2018.10.038",
+        "volume": "175",
+        "author": "M Sade-Feldman",
+        "year": "2018",
+        "unstructured": "Sade-Feldman, M. et al. Defining T cell states associated with response to checkpoint immunotherapy in melanoma. Cell 175, 998.e20–1013.e20 (2018).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR80",
+        "unstructured": "Lonnberg, T. et al. Single-cell RNA-seq and computational analysis using temporal mixture modelling resolves Th1/Tfh fate bifurcation in malaria. Sci. Immunol. 2, eaal2192 (2017)."
+      },
+      {
+        "key": "214_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "1309",
+        "DOI": "10.1016/j.cell.2015.08.027",
+        "volume": "162",
+        "author": "R Avraham",
+        "year": "2015",
+        "unstructured": "Avraham, R. et al. Pathogen cell-to-cell variability drives heterogeneity in host immune responses. Cell 162, 1309–1321 (2015).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "16206",
+        "DOI": "10.1038/nmicrobiol.2016.206",
+        "volume": "2",
+        "author": "AE Saliba",
+        "year": "2016",
+        "unstructured": "Saliba, A. E. et al. Single-cell RNA-seq ties macrophage polarization to growth rate of intracellular Salmonella. Nat. Microbiol. 2, 16206 (2016).",
+        "journal-title": "Nat. Microbiol."
+      },
+      {
+        "key": "214_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "1276.e17",
+        "DOI": "10.1016/j.cell.2017.05.018",
+        "volume": "169",
+        "author": "H Keren-Shaul",
+        "year": "2017",
+        "unstructured": "Keren-Shaul, H. et al. A unique microglia type associated with restricting development of Alzheimer’s disease. Cell 169, 1276.e17–1290.e17 (2017).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "1675",
+        "DOI": "10.1161/CIRCRESAHA.117.312513",
+        "volume": "122",
+        "author": "H Winkels",
+        "year": "2018",
+        "unstructured": "Winkels, H. et al. Atlas of the immune cell repertoire in mouse atherosclerosis defined by single-cell RNA-sequencing and mass cytometry. Circ. Res. 122, 1675–1688 (2018).",
+        "journal-title": "Circ. Res."
+      },
+      {
+        "key": "214_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "1306",
+        "DOI": "10.1126/science.aau2599",
+        "volume": "362",
+        "author": "D Croote",
+        "year": "2018",
+        "unstructured": "Croote, D., Darmanis, S., Nadeau, K. C. & Quake, S. R. High-affinity allergen-specific human antibodies cloned from single IgE B cell transcriptomes. Science 362, 1306–1309 (2018).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR86",
+        "doi-asserted-by": "publisher",
+        "first-page": "1638",
+        "DOI": "10.3389/fimmu.2018.01638",
+        "volume": "9",
+        "author": "M Simone De",
+        "year": "2018",
+        "unstructured": "De Simone, M., Rossetti, G. & Pagani, M. Single cell T cell receptor sequencing: techniques and future challenges. Front. Immunol. 9, 1638 (2018).",
+        "journal-title": "Front. Immunol."
+      },
+      {
+        "key": "214_CR87",
+        "unstructured": "Guo, X. et al. Global characterization of T cells in non-small-cell lung cancer by single-cell sequencing. Nat. Med. 24, 978–985 (2018)."
+      },
+      {
+        "key": "214_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "1342.e16",
+        "DOI": "10.1016/j.cell.2017.05.035",
+        "volume": "169",
+        "author": "C Zheng",
+        "year": "2017",
+        "unstructured": "Zheng, C. et al. Landscape of infiltrating T cells in liver cancer revealed by single-cell sequencing. Cell 169, 1342.e16–1356.e16 (2017).",
+        "journal-title": "Cell"
+      },
+      {
+        "key": "214_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "268",
+        "DOI": "10.1038/s41586-018-0694-x",
+        "volume": "564",
+        "author": "L Zhang",
+        "year": "2018",
+        "unstructured": "Zhang, L. et al. Lineage tracking reveals dynamic relationships of T cells in colorectal cancer. Nature 564, 268–272 (2018).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "214_CR90",
+        "unstructured": "Li, H. et al. Dysfunctional CD8 T cells form a proliferative, dynamically regulated compartment within human melanoma. Cell 176, 775.e18–789.e18 (2018).",
+        "DOI": "10.1016/j.cell.2018.11.043",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR91",
+        "unstructured": "De Bie, J. et al. Single-cell sequencing reveals the origin and the order of mutation acquisition in T-cell acute lymphoblastic leukemia. Leukemia 32, 1358–1369 (2018).",
+        "DOI": "10.1038/s41375-018-0127-8",
+        "doi-asserted-by": "crossref"
+      },
+      {
+        "key": "214_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "692",
+        "DOI": "10.1038/nm.4336",
+        "volume": "23",
+        "author": "A Giustacchini",
+        "year": "2017",
+        "unstructured": "Giustacchini, A. et al. Single-cell transcriptomics uncovers distinct molecular signatures of stem cells in chronic myeloid leukemia. Nat. Med. 23, 692–702 (2017).",
+        "journal-title": "Nat. Med."
+      },
+      {
+        "key": "214_CR93",
+        "doi-asserted-by": "publisher",
+        "first-page": "1867",
+        "DOI": "10.1038/s41591-018-0269-2",
+        "volume": "24",
+        "author": "G Ledergor",
+        "year": "2018",
+        "unstructured": "Ledergor, G. et al. Single cell dissection of plasma cell heterogeneity in symptomatic and asymptomatic myeloma. Nat. Med. 24, 1867–1876 (2018).",
+        "journal-title": "Nat. Med."
+      },
+      {
+        "key": "214_CR94",
+        "doi-asserted-by": "publisher",
+        "first-page": "936",
+        "DOI": "10.1038/nbt.3973",
+        "volume": "35",
+        "author": "VM Peterson",
+        "year": "2017",
+        "unstructured": "Peterson, V. M. et al. Multiplexed quantification of proteins and transcripts in single cells. Nat. Biotechnol. 35, 936–939 (2017).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "214_CR95",
+        "unstructured": "Stoeckius, M. et al. Simultaneous epitope and transcriptome measurement in single cells. Nat. Methods 14, 865–868 (2017)."
+      },
+      {
+        "key": "214_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1038/nmeth.3370",
+        "volume": "12",
+        "author": "IC Macaulay",
+        "year": "2015",
+        "unstructured": "Macaulay, I. C. et al. G&T-seq: parallel sequencing of single-cell genomes and transcriptomes. Nat. Methods 12, 519–522 (2015).",
+        "journal-title": "Nat. Methods"
+      },
+      {
+        "key": "214_CR97",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1038/nbt.3129",
+        "volume": "33",
+        "author": "SS Dey",
+        "year": "2015",
+        "unstructured": "Dey, S. S., Kester, L., Spanjaard, B., Bienko, M. & van Oudenaarden, A. Integrated genome and transcriptome sequencing of the same cell. Nat. Biotechnol. 33, 285–289 (2015).",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "214_CR98",
+        "doi-asserted-by": "publisher",
+        "first-page": "1060",
+        "DOI": "10.1126/science.aao3791",
+        "volume": "362",
+        "author": "S Bian",
+        "year": "2018",
+        "unstructured": "Bian, S. et al. Single-cell multiomics sequencing and analyses of human colorectal cancer. Science 362, 1060–1063 (2018).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "214_CR99",
+        "author": "Y Hu",
+        "volume": "17",
+        "year": "2016",
+        "unstructured": "Hu, Y. et al. Simultaneous profiling of transcriptome and DNA methylome from a single cell. Genome Biol. 17, 88 (2016).",
+        "journal-title": "Genome Biol.",
+        "DOI": "10.1186/s13059-016-0950-z",
+        "doi-asserted-by": "publisher"
+      },
+      {
+        "key": "214_CR100",
+        "unstructured": "Wang, X. et al. Three-dimensional intact-tissue sequencing of single-cell transcriptional states. Science 361, eaat5691 (2018).",
+        "DOI": "10.1126/science.aat5691",
+        "doi-asserted-by": "crossref"
+      }
+    ],
+    "container-title": [
+      "Cellular & Molecular Immunology"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/s41423-019-0214-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41423-019-0214-4",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41423-019-0214-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2020-04-03T09:10:50Z",
+      "timestamp": 1585905050000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          22
+        ]
+      ]
+    },
+    "references-count": 100,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            3
+          ]
+        ]
+      },
+      "issue": "3"
+    },
+    "alternative-id": [
+      "214"
+    ],
+    "URL": "http://dx.doi.org/10.1038/s41423-019-0214-4",
+    "relation": {
+      "cites": []
+    },
+    "ISSN": [
+      "1672-7681",
+      "2042-0226"
+    ],
+    "issn-type": [
+      {
+        "value": "1672-7681",
+        "type": "print"
+      },
+      {
+        "value": "2042-0226",
+        "type": "electronic"
+      }
+    ],
+    "subject": [
+      "Immunology",
+      "Immunology and Allergy",
+      "Infectious Diseases"
+    ],
+    "assertion": [
+      {
+        "value": "16 January 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "30 January 2019",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "22 February 2019",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ]
+  }
+}
