@@ -49,7 +49,8 @@ const Page: NextPage<Props> = (props) => {
       "10.1039/c8an01186a\n" +
       "10.3389/fonc.2013.00274\n" +
       "10.1016/j.bpj.2018.06.008\n" +
-      "10.1371/journal.pone.0085270"
+      "10.1371/journal.pone.0085270\n" +
+      "10.1016/j.molcel.2017.01.023\n"
   );
 
   // const [value, setValue] = React.useState("10.1039/c9an90011");
@@ -64,7 +65,8 @@ const Page: NextPage<Props> = (props) => {
     const list = value
       .trim()
       .split("\n")
-      .map((__) => __.trim());
+      .map((__) => __.trim())
+      .filter((value, index, self) => self.indexOf(value) === index);
 
     const finalArr = [];
     for (let i = 0; i < list.length; i++) {
