@@ -1,0 +1,17 @@
+.result_item {
+  padding: 20px;
+  transition: all 0.1s;
+  /*border: 2px solid green;*/
+}
+
+.result_item:hover {
+  background: rgba(231, 231, 231, 0.3);
+}
+
+.result_item:hover .actions {
+  opacity: 1;
+}
+
+.actions {
+  opacity: 0;
+}

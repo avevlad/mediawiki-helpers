@@ -1,19 +1,39 @@
+// @ts-nocheck
 import React, { useEffect } from "react";
 import axios from "axios";
+import slugify from "slugify";
 import { NextPage } from "next";
 import { Button } from "baseui/button";
 import { Textarea } from "baseui/textarea";
 import { Box, Flex } from "reflexbox";
 import { FormControl } from "baseui/form-control";
 import { Radio, RadioGroup } from "baseui/radio";
+import { ruTpl } from "../utils/ru-tpl";
+import { Tag } from "baseui/tag";
+import { Card } from "baseui/card";
+import { Checkbox } from "baseui/checkbox";
+import s from "./index.module.css";
 
 interface Props {}
 
-// <ref name=“”>{{Статья|автор=...|год=...|doi=...|issn=...|выпуск=...|язык=en|страницы=...|издание=...|заглавие=...|ссылка=...|том=...}}</ref>
-//
-// Том = Volume
-// Выпуск = Issue
-// Издание = Journal
+async function fetchDoi(doi) {
+  const doi_slug = slugify(doi);
+  const cacheResult = localStorage.getItem(doi_slug);
+
+  if (cacheResult) {
+    return JSON.parse(cacheResult);
+  }
+
+  const srr = await axios.get("/api/crossref-api", {
+    params: {
+      doi,
+    },
+  });
+
+  localStorage.setItem(doi_slug, JSON.stringify(srr.data));
+
+  return srr.data;
+}
 
 const Page: NextPage<Props> = (props) => {
   const [value, setValue] = React.useState(
@@ -36,8 +56,11 @@ const Page: NextPage<Props> = (props) => {
 
   const [media_wiki_lang, setMedia_wiki_lang] = React.useState("ru");
   const [sr, setSr] = React.useState([]);
+  const [isShowDebugData, setIsShowDebugData] = React.useState(false);
+  const [isFetching, setIsFetching] = React.useState(false);
 
   async function handleSubmit() {
+    setIsFetching(true);
     const list = value
       .trim()
       .split("\n")
@@ -47,20 +70,17 @@ const Page: NextPage<Props> = (props) => {
     for (let i = 0; i < list.length; i++) {
       const listElement = list[i];
 
-      const srr = await axios.get("/api/crossref", {
-        params: {
-          doi: listElement,
-        },
-      });
+      const doiResponse = await fetchDoi(listElement);
 
       finalArr.push({
         search_id: listElement,
-        result: srr.data,
+        result: doiResponse,
       });
     }
 
     console.log("finalArr = ", finalArr);
     setSr(finalArr);
+    setIsFetching(false);
   }
 
   useEffect(() => {
@@ -72,21 +92,80 @@ const Page: NextPage<Props> = (props) => {
   const results = sr.map((item, i) => {
     const key = `rk_${i}`;
 
+    const doiLink = "http://dx.doi.org/" + item.search_id;
+    const jsonApiLink = "http://api.crossref.org/v1/works/" + item.search_id;
+
+    const actions = (
+      <Flex className={s.actions} width={[90]} justifyContent={"space-between"}>
+        <Button
+          kind={"primary"}
+          size={"mini"}
+          $as={"a"}
+          href={doiLink}
+          target={"_blank"}
+        >
+          link
+        </Button>
+        <Button
+          kind={"primary"}
+          size={"mini"}
+          $as={"a"}
+          href={jsonApiLink}
+          target={"_blank"}
+        >
+          json
+        </Button>
+      </Flex>
+    );
+
     if (item.result.error) {
       return (
-        <div key={key}>
-          <div>{item.search_id}</div>
-          <div>{JSON.stringify(item.result)}</div>
-          <hr />
+        <div className={s.result_item} key={key}>
+          <Flex>
+            <Box flex={1}>
+              <h2>{item.search_id}</h2>
+            </Box>
+            <Flex alignItems={"center"}>{actions}</Flex>
+          </Flex>
+          <pre
+            style={{ backgroundColor: "#D44333", color: "#FBEFEE", padding: 2 }}
+          >
+            {JSON.stringify(item.result)}
+          </pre>
         </div>
       );
     }
 
+    const { map, res, notFound } = ruTpl(item.result);
+
+    const notFoundItems = notFound.length > 0 && (
+      <Box pt={2}>
+        {notFound.map((__, i) => (
+          <Tag
+            kind={"warning"}
+            closeable={false}
+            variant={"outlined"}
+            key={`tag_${i}`}
+          >
+            {__}
+          </Tag>
+        ))}
+      </Box>
+    );
+
     return (
-      <div key={key}>
-        <div>{item.search_id}</div>
-        <div>{JSON.stringify(item.result.message.title)}</div>
-        <hr />
+      <div className={s.result_item} key={key}>
+        <Flex>
+          <Box flex={1}>
+            <h2>{item.search_id}</h2>
+          </Box>
+          <Flex alignItems={"center"}>{actions}</Flex>
+        </Flex>
+        <code>{res}</code>
+        {notFoundItems}
+        {isShowDebugData && (
+          <pre style={{ overflow: "auto" }}>{JSON.stringify(map, null, 2)}</pre>
+        )}
       </div>
     );
   });
@@ -116,6 +195,7 @@ const Page: NextPage<Props> = (props) => {
             <Box>
               <FormControl label={() => "Media wiki lang"}>
                 <RadioGroup
+                  disabled
                   // labelPlacement={"bottom"}
                   value={media_wiki_lang}
                   onChange={(e) => setMedia_wiki_lang(e.target.value)}
@@ -126,9 +206,17 @@ const Page: NextPage<Props> = (props) => {
                   <Radio value="en">En</Radio>
                 </RadioGroup>
               </FormControl>
+              <Checkbox
+                checked={isShowDebugData}
+                onChange={(e) => setIsShowDebugData(e.currentTarget.checked)}
+                // labelPlacement={LABEL_PLACEMENT.right}
+              >
+                Print json data
+              </Checkbox>
             </Box>
             <Box backgroundColor={"red"}>
               <Button
+                isLoading={isFetching}
                 size={"compact"}
                 onClick={() => {
                   handleSubmit();
@@ -147,7 +235,24 @@ const Page: NextPage<Props> = (props) => {
           </Flex>
         </Box>
       </Flex>
-      <Box px={2}>{results}</Box>
+      <Box px={2}>
+        <Card
+          overrides={{
+            Contents: {
+              style: {
+                // backgroundColor: "green",
+                padding: 0,
+                marginTop: 0,
+                marginBottom: 0,
+                marginLeft: 0,
+                marginRight: 0,
+              },
+            },
+          }}
+        >
+          {results}
+        </Card>
+      </Box>
     </Box>
   );
 };
