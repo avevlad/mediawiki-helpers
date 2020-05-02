@@ -29,6 +29,7 @@
     "rebass": "^4.0.7",
     "reflexbox": "^4.0.6",
     "slugify": "^1.4.0",
+    "store": "^2.0.12",
     "styled-components": "3.2.6",
     "styled-system": "^5.1.5",
     "styletron-engine-atomic": "^1.4.6",
