@@ -14,6 +14,8 @@ import { Tag } from "baseui/tag";
 import { Card } from "baseui/card";
 import { Checkbox } from "baseui/checkbox";
 import s from "./index.module.css";
+import { useMultiKeyPress } from "../hooks/useMultiKeyPress";
+// import Mousetrap from "mousetrap";
 
 interface Props {}
 
@@ -48,18 +50,23 @@ const Page: NextPage<Props> = (props) => {
   // const [value, setValue] = React.useState("10.1039/c9an90011");
 
   const [media_wiki_lang, setMedia_wiki_lang] = React.useState("ru");
+
   const [sr, setSr] = React.useState([]);
   const [isShowDebugData, setIsShowDebugData] = React.useState(false);
   const [isFetching, setIsFetching] = React.useState(false);
+  const [hack, setHack] = React.useState(false);
 
   async function handleSubmit() {
     setIsFetching(true);
+    console.log("value = ", value);
     const list = value
       .trim()
       .split("\n")
+      .filter((__) => __ !== "")
       .map((__) => __.trim())
       .filter((value, index, self) => self.indexOf(value) === index);
 
+    console.log("list = ", list);
     const finalArr = [];
     for (let i = 0; i < list.length; i++) {
       const listElement = list[i];
@@ -77,11 +84,16 @@ const Page: NextPage<Props> = (props) => {
     setIsFetching(false);
   }
 
-  useEffect(() => {
-    handleSubmit();
-  }, []);
+  useMultiKeyPress("command+enter", () => {
+    setHack((__) => !__);
+  });
 
-  console.log("sr = ", sr);
+  useEffect(() => {
+    if (isFetching) {
+      return;
+    }
+    handleSubmit();
+  }, [hack]);
 
   const results = sr.map((item, i) => {
     const key = `rk_${i}`;
@@ -224,7 +236,7 @@ const Page: NextPage<Props> = (props) => {
                   },
                 }}
               >
-                Найти
+                Найти (⌘ + ↵)
               </Button>
             </Box>
           </Flex>

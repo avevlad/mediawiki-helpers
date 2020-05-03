@@ -33,11 +33,11 @@ exports.ruTpl = function (data) {
     .map((__) => `${__[0]}=${__[1]}`.trim())
     .join("|");
 
-  const attr_name = slugify(data.message.DOI.replace("/", "__"), {});
+  const attr_name = slugify(data.message.DOI.replace("/", "_"), {});
 
   return {
     map,
-    res: `<ref name="${attr_name}">{{Статья|${body}}</ref>`,
+    res: `<ref name="${attr_name}">{{Статья|${body}}}</ref>`,
     notFound: Object.entries(map)
       .filter((__) => !Boolean(__[1]))
       .map((__) => __[0]),

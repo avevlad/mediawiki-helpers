@@ -1,0 +1,13 @@
+.github_link {
+  right: 15px;
+  top: 15px;
+  position: absolute;
+  padding: 3px;
+  transform: scale(1.5);
+  transition: all 0.2s;
+  opacity: .4;
+}
+
+.github_link:hover {
+  opacity: 1;
+}
