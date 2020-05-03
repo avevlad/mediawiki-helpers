@@ -84,8 +84,7 @@ const Page: NextPage<Props> = (props) => {
     setSr(finalArr);
     setIsFetching(false);
   }
-
-  useMultiKeyPress("command+enter", () => {
+  useMultiKeyPress("mod+enter", () => {
     setHack((__) => !__);
   });
 
@@ -186,7 +185,16 @@ const Page: NextPage<Props> = (props) => {
             })}
           </Flex>
         </Flex>
-        <code>{res}</code>
+        <div
+          className={s.media_wiki_ref}
+          contentEditable={"true"}
+          onClick={(event) => {
+            document.execCommand("selectAll", false, null);
+            document.execCommand("copy");
+          }}
+        >
+          {res}
+        </div>
         {notFoundItems}
         {isShowDebugData && (
           <pre style={{ overflow: "auto" }}>{JSON.stringify(map, null, 2)}</pre>
