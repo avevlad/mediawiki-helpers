@@ -5,6 +5,7 @@ import store from "store";
 import slugify from "slugify";
 import { NextPage } from "next";
 import { Button } from "baseui/button";
+import { CopyToClipboard } from "react-copy-to-clipboard";
 import { Textarea } from "baseui/textarea";
 import { Box, Flex } from "reflexbox";
 import { FormControl } from "baseui/form-control";
@@ -95,34 +96,40 @@ const Page: NextPage<Props> = (props) => {
     handleSubmit();
   }, [hack]);
 
+  const renderActions = ({ jsonApiLink, doiLink, data }) => (
+    <Flex className={s.actions} width={[170]} justifyContent={"space-between"}>
+      <CopyToClipboard
+        text={data}
+        // onCopy={() => this.setState({ copied: true })}
+      >
+        <Button size={"mini"}>copy code</Button>
+      </CopyToClipboard>
+      <Button
+        kind={"primary"}
+        size={"mini"}
+        $as={"a"}
+        href={doiLink}
+        target={"_blank"}
+      >
+        link
+      </Button>
+      <Button
+        kind={"primary"}
+        size={"mini"}
+        $as={"a"}
+        href={jsonApiLink}
+        target={"_blank"}
+      >
+        json
+      </Button>
+    </Flex>
+  );
+
   const results = sr.map((item, i) => {
     const key = `rk_${i}`;
-
     const doiLink = "http://dx.doi.org/" + item.search_id;
-    const jsonApiLink = "http://api.crossref.org/v1/works/" + item.search_id;
 
-    const actions = (
-      <Flex className={s.actions} width={[90]} justifyContent={"space-between"}>
-        <Button
-          kind={"primary"}
-          size={"mini"}
-          $as={"a"}
-          href={doiLink}
-          target={"_blank"}
-        >
-          link
-        </Button>
-        <Button
-          kind={"primary"}
-          size={"mini"}
-          $as={"a"}
-          href={jsonApiLink}
-          target={"_blank"}
-        >
-          json
-        </Button>
-      </Flex>
-    );
+    const jsonApiLink = "http://api.crossref.org/v1/works/" + item.search_id;
 
     if (item.result.error) {
       return (
@@ -131,7 +138,13 @@ const Page: NextPage<Props> = (props) => {
             <Box flex={1}>
               <h2>{item.search_id}</h2>
             </Box>
-            <Flex alignItems={"center"}>{actions}</Flex>
+            <Flex alignItems={"center"}>
+              {renderActions({
+                doiLink,
+                jsonApiLink,
+                data: JSON.stringify(item.result),
+              })}
+            </Flex>
           </Flex>
           <pre
             style={{ backgroundColor: "#D44333", color: "#FBEFEE", padding: 2 }}
@@ -165,7 +178,13 @@ const Page: NextPage<Props> = (props) => {
           <Box flex={1}>
             <h2>{item.search_id}</h2>
           </Box>
-          <Flex alignItems={"center"}>{actions}</Flex>
+          <Flex alignItems={"center"}>
+            {renderActions({
+              doiLink,
+              jsonApiLink,
+              data: res,
+            })}
+          </Flex>
         </Flex>
         <code>{res}</code>
         {notFoundItems}
