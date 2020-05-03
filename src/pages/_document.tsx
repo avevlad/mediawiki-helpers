@@ -19,6 +19,7 @@ class MyDocument extends Document<{ stylesheets: Sheet[] }> {
     return (
       <html>
         <Head>
+          <title>DOI to wiki MediaWiki ref</title>
           {this.props.stylesheets.map((sheet, i) => (
             <style
               className="_styletron_hydrate_"
