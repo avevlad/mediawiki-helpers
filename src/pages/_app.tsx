@@ -8,6 +8,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faRocket } from "@fortawesome/free-solid-svg-icons/faRocket";
 import * as timeago from "timeago.js";
 import ru_locale from "timeago.js/lib/lang/ru";
+/**
+ * https://github.com/FortAwesome/react-fontawesome/issues/134
+ */
+import "@fortawesome/fontawesome-svg-core/styles.css";
+
 import s from "./_app.module.css";
 
 timeago.register("ru", ru_locale);
