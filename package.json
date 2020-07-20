@@ -24,7 +24,7 @@
     "axios": "^0.19.2",
     "baseui": "^9.73.2",
     "braid-design-system": "^25.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mousetrap": "^1.6.5",
     "next": "9.3.5",
     "normalize.css": "^8.0.1",
