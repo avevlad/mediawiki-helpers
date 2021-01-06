@@ -21,7 +21,7 @@
     "@types/styletron-engine-atomic": "^1.1.0",
     "@types/styletron-react": "^5.0.2",
     "@types/styletron-standard": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "baseui": "^9.73.2",
     "braid-design-system": "^25.5.0",
     "lodash": "^4.17.15",
