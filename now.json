@@ -1,3 +1,6 @@
 {
-  "alias": ["mediawiki-helpers"]
+  "alias": ["mediawiki-helpers"],
+  "github": {
+    "autoAlias": false
+  }
 }
