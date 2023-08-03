@@ -10,6 +10,7 @@ const doi_assets_folder = path.join("../public/doi_assets/");
 // Том = Volume
 // Выпуск = Issue
 // Издание = Journal
+// ???
 
 function ruTpl(data) {
   const createdTimestamp = _.get(data, "message.created.timestamp", 0);
