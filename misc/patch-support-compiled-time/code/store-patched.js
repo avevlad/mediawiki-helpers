@@ -16,7 +16,7 @@ function _getRequireWildcardCache() {
   };
   return cache;
 }
-function _interopRequireWildcard(obj) {
+function _interopRequireWildcarddasdasda(obj) {
   if (obj && obj.__esModule) {
     return obj;
   }
